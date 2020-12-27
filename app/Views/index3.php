@@ -79,7 +79,7 @@
                     <div class="row">
 
                         <div class="col-md-2">
-                            <!-- <a href="index.html" class="logo"><img src="images/kittycare/home.png" alt=""></a> -->
+                            <!-- <a href="index3.html" class="logo"><img src="images/kittycare/home2.png"></a> -->
                             <a class="navbar-brand" href="/">
                                 <img src="images/kittycare/home2.png" width="100" height="100">
                             </a>
@@ -279,7 +279,7 @@
         <!-- Mobile Menu End -->
 
 
-        <div class="container">
+        <!-- <div class="container">
             <div class="time-table-sec">
                 <ul id="accordion2" class="accordion2">
                     <li>
@@ -296,7 +296,7 @@
                     </li>
                 </ul>
             </div>
-        </div>
+        </div> -->
 
 
 
@@ -312,16 +312,16 @@
 
                         <img src="images/kittycare/slide1.jpg" alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 
-                        <div class="tp-caption lft customout rs-parallaxlevel-0" data-x="0" data-y="199" data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="700" data-start="1100" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index: 4;"><img src="images/heart-icon.png" alt="">
-
+                        <div class="tp-caption grey_heavy_72 skewfromrightshort tp-resizeme rs-parallaxlevel-0" data-x="1035" data-y="280" data-speed="500" data-start="2250" data-easing="Power3.easeInOut" data-splitin="chars" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Stray Cat
                         </div>
 
-
-                        <div class="tp-caption grey_heavy_72 skewfromrightshort tp-resizeme rs-parallaxlevel-0" data-x="1000" data-y="280" data-speed="500" data-start="2250" data-easing="Power3.easeInOut" data-splitin="chars" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Heart
+                        <div class="tp-caption grey_heavy_72 skewfromrightshort tp-resizeme rs-parallaxlevel-0" data-x="730" data-y="350" data-speed="500" data-start="2250" data-easing="Power3.easeInOut" data-splitin="chars" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Need Your Love too
                         </div>
 
-                        <div class="tp-caption grey_heavy_28 customin tp-resizeme rs-parallaxlevel-0" data-x="800" data-y="357" data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="500" data-start="2600" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.1" style="z-index: 9; max-width: auto; max-height: auto; white-space: nowrap;">
-                            <div style="text-align:right;">If you need a doctor for to consectetuer Lorem ipsum dolor, consectetur <br />adipiscing elit. Ut volutpat eros adipiscing elit Ut volutpat. </div>
+                        <div class="tp-caption grey_heavy_28 customin tp-resizeme rs-parallaxlevel-0" data-x="885" data-y="450" data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="500" data-start="2600" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.1" style="z-index: 9; max-width: auto; max-height: auto; white-space: nowrap;">
+                            <div style="text-align:right;">
+                                <p style="color:white;">Layaknya manusia, kucing-kucing liar di jalanan pun <br> menginginkan kasih sayang darimu </p>
+                            </div>
                         </div>
 
 
@@ -331,23 +331,23 @@
 
                     <li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="Intro Slide">
 
-                        <img src="images/slides/banenr-img2.jpg" alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+                        <img src="images/kittycare/face-cat.jpg" alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 
-                        <div class="tp-caption grey_heavy_72 skewfromleftshort fadeout tp-resizeme rs-parallaxlevel-10" data-x="0" data-y="115" data-speed="500" data-start="2250" data-easing="Power3.easeInOut" data-splitin="chars" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Medical
+                        <!-- <div class="tp-caption grey_heavy_72 skewfromleftshort fadeout tp-resizeme rs-parallaxlevel-10" data-x="0" data-y="115" data-speed="500" data-start="2250" data-easing="Power3.easeInOut" data-splitin="chars" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Medical
                         </div>
 
                         <div class="tp-caption grey_heavy_72-light skewfromleftshort fadeout tp-resizeme rs-parallaxlevel-10" data-x="245" data-y="115" data-speed="500" data-start="2950" data-easing="Power3.easeInOut" data-splitin="chars" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Services
-                        </div>
+                        </div> -->
 
 
-                        <div class="tp-caption white_regular_18-light customin tp-resizeme rs-parallaxlevel-0" data-x="0" data-y="194" data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="800" data-start="3400" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.1" style="z-index: 9; max-width: auto; max-height: auto; white-space: nowrap;">
+                        <div class="tp-caption white_regular_36-light customin tp-resizeme rs-parallaxlevel-0" data-x="0" data-y="400" data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="500" data-start="2200" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.1" style="z-index: 9; max-width: auto; max-height: auto; white-space: nowrap;">
                             <div style="text-align:left;">
-                                <p style="color:white;">If you need a doctor for to consectetuer Lorem ipsum dolor, consectetur <br />adipiscing elit. Ut volutpat eros adipiscing elit Ut volutpat. </p>
+                                <p style="color:white;">Mereka hanya menginginkan sedikit pemberianmu. <br />Berilah mereka sedikit dari sisa makananmu </p>
                             </div>
                         </div>
 
 
-                        <div class="tp-caption arrowicon customin fadeout rs-parallaxlevel-10" data-x="0" data-y="265" data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="600" data-start="4000" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="1000" style="z-index: 8;"><img src="images/slides/plus.png" alt="">
+                        <!-- <div class="tp-caption arrowicon customin fadeout rs-parallaxlevel-10" data-x="0" data-y="265" data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="600" data-start="4000" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="1000" style="z-index: 8;"><img src="images/slides/plus.png" alt="">
                         </div>
 
 
@@ -366,9 +366,9 @@
 
 
                         <div class="tp-caption black_bold_bg_20 sfr fadeout tp-resizeme rs-parallaxlevel-10" data-x="38" data-y="355" data-speed="600" data-start="4700" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="1000" style="z-index: 9; max-width: auto; max-height: auto; white-space: nowrap; font-size: 18px;">Orthopedic Health keeps you Active
-                        </div>
+                        </div> -->
 
-                        <div class="tp-caption arrowicon customin  rs-parallaxlevel-10" data-x="0" data-y="430" data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="850" data-start="5500" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="1000" style="z-index:12000;"><a href="services.html"><img src="images/slides/icon1.png" alt=""></a>
+                        <!-- <div class="tp-caption arrowicon customin  rs-parallaxlevel-10" data-x="0" data-y="430" data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="850" data-start="5500" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="1000" style="z-index:12000;"><a href="services.html"><img src="images/slides/icon1.png" alt=""></a>
                         </div>
 
                         <div class="tp-caption arrowicon customin  rs-parallaxlevel-10" data-x="108" data-y="430" data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="850" data-start="6000" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="1000" style="z-index:12000;"><a href="services.html"><img src="images/slides/icon2.png" alt=""></a>
@@ -382,7 +382,7 @@
 
 
                         <div class="tp-caption arrowicon customin  rs-parallaxlevel-10" data-x="432" data-y="430" data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="850" data-start="7500" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="1000" style="z-index:12000;"><a href="services.html"><img src="images/slides/view-all.png" alt=""></a>
-                        </div>
+                        </div> -->
 
 
 
@@ -391,16 +391,26 @@
 
                     <li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="Intro Slide">
 
-                        <img src="images/slides/banenr-img3.jpg" alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+                        <img src="images/kittycare/cat-portrait.jpg" alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 
+                        <div class="tp-caption grey_heavy_72 skewfromrightshort tp-resizeme rs-parallaxlevel-0" data-x="1035" data-y="280" data-speed="500" data-start="2250" data-easing="Power3.easeInOut" data-splitin="chars" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Stray Cat
+                        </div>
 
+                        <div class="tp-caption grey_heavy_72 skewfromrightshort tp-resizeme rs-parallaxlevel-0" data-x="730" data-y="350" data-speed="500" data-start="2250" data-easing="Power3.easeInOut" data-splitin="chars" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Need Your Love too
+                        </div>
 
-
-                        <div class="tp-caption grey_heavy_72-light customin randomrotateout tp-resizeme rs-parallaxlevel-10" data-x="0" data-y="220" data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;" data-speed="650" data-start="1050" data-easing="Power3.easeInOut" data-splitin="chars" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Leading the Way in
+                        <div class="tp-caption grey_heavy_28 customin tp-resizeme rs-parallaxlevel-0" data-x="885" data-y="450" data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="500" data-start="2600" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.1" style="z-index: 9; max-width: auto; max-height: auto; white-space: nowrap;">
+                            <div style="text-align:right;">
+                                <p style="color:white;">Layaknya manusia, kucing-kucing liar di jalanan pun <br> menginginkan kasih sayang darimu </p>
+                            </div>
                         </div>
 
 
-                        <div class="tp-caption grey_heavy_72 customin randomrotateout tp-resizeme rs-parallaxlevel-10" data-x="0" data-y="286" data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;" data-speed="650" data-start="2500" data-easing="Power3.easeInOut" data-splitin="chars" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Research & Development
+                        <!-- <div class="tp-caption grey_heavy_72-light customin randomrotateout tp-resizeme rs-parallaxlevel-0" data-x="0" data-y="220" data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;" data-speed="650" data-start="1050" data-easing="Power3.easeInOut" data-splitin="chars" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Leading the Way in
+                        </div>
+
+
+                        <div class="tp-caption grey_heavy_72 customin randomrotateout tp-resizeme rs-parallaxlevel-0" data-x="0" data-y="286" data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;" data-speed="650" data-start="2500" data-easing="Power3.easeInOut" data-splitin="chars" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Research & Development
                         </div>
 
 
@@ -413,7 +423,7 @@
                             <div style="text-align:left; background:#f15b5a;">
                                 <a href="about-us.html" class="read-more" style=" line-height: initial; color: #fff; text-transform: uppercase; font-weight: 500; padding: 12px 36px; display: inline-block; font-size: 18px;">read more</a>
                             </div>
-                        </div>
+                        </div> -->
 
                     </li>
 
@@ -444,8 +454,8 @@
                                 </div>
 
                                 <div class="detail">
-                                    <h5>Dental Care</h5>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
+                                    <h5>Kucing</h5>
+                                    <p>Kucing adalah sejenis mamalia karnivora dari keluarga Felidae. Kucing telah berbaur dengan kehidupan manusia paling tidak sejak 6.000 tahun SM.</p>
                                 </div>
 
                             </div>
@@ -456,8 +466,8 @@
                                 </div>
 
                                 <div class="detail">
-                                    <h5>Operation Theater</h5>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
+                                    <h5>Taksonomi dan evolusi</h5>
+                                    <p>Kucing domestik <i>(Felis catus)</i> merupakan bagian dari genus Felis, yang merupakan kelompok kucing kecil yang berisi sekitar tujuh spesies (tergantung pada skema klasifikasi).</p>
                                 </div>
 
                             </div>
@@ -468,8 +478,8 @@
                                 </div>
 
                                 <div class="detail">
-                                    <h5>Qualified Doctors</h5>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
+                                    <h5>Hewan yang populer</h5>
+                                    <p>Kucing merupakan hewan yang paling populer untuk dipelihara karena tingkahnya yang lincah dan.</p>
                                 </div>
 
                             </div>
@@ -486,9 +496,9 @@
                                 <div class="span12">
                                     <div id="services-slide" class="owl-carousel">
 
-                                        <div class="item"><img src="images/service-two-img1.jpg" alt=""></div>
-                                        <div class="item"><img src="images/service-two-img2.jpg" alt=""></div>
-                                        <div class="item"><img src="images/service-two-img3.jpg" alt=""></div>
+                                        <div class="item"><img src="images/slides/Kucing.jpeg" alt=""></div>
+                                        <div class="item"><img src="images/slides/taksonomi.jpg" alt=""></div>
+                                        <div class="item"><img src="images/slides/cat-playing.jpg" alt=""></div>
 
                                     </div>
                                 </div>
@@ -508,7 +518,7 @@
             <!--End Services-->
 
             <!--Start Appointment-->
-            <div class="make-appointment-two">
+            <!-- <div class="make-appointment-two">
                 <div class="container">
                     <div class="row">
 
@@ -588,7 +598,7 @@
 
                     </div>
                 </div>
-            </div>
+            </div> -->
             <!--End Appointment-->
 
 
@@ -599,19 +609,19 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="main-title">
-                                <h2><span>Welcome to</span> Medical Guide</h2>
-                                <p>If you need a doctor for to consectetuer Lorem ipsum dolor, consectetur adipiscing elit. Ut volutpat eros adipiscing nonummy.</p>
+                                <h2><span>Selamat Datang di</span> Kitty Care Center</h2>
+                                <p>PEDULIKAN MEREKA SEPENUH HATI</p>
                             </div>
                         </div>
                     </div>
 
                     <div id="tabbed-nav">
-                        <ul>
+                        <!-- <ul>
                             <li><a>Medical Surgery</a></li>
                             <li><a>Departments</a></li>
                             <li><a>Patient life</a></li>
                             <li><a>Baby Birth</a></li>
-                        </ul>
+                        </ul> -->
 
 
                         <div>
@@ -622,17 +632,17 @@
 
                                     <div class="col-md-6">
                                         <div class="welcome-serv-img">
-                                            <img src="images/services-img2.jpg" alt="">
+                                            <img src="images/kittycare/Logo1.png" alt="">
                                         </div>
                                     </div>
 
                                     <div class="col-md-6">
 
                                         <div class="detail">
-                                            <h4>Washington Medical Science Institute</h4>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat Duis.<br /><br />
+                                            <h4>Kitty Care Center</h4>
+                                            <p>Website kami adalah sebuah web yang mewadahi para pencinta kucing agar bisa mengadopsi kucing-kucing liar di luar sana yang sesuai dengan kriteria mereka. Seperti halnya manusia, kucing-kucing di luar sana juga layak untuk mendapatkan kasih sayang dari sesama makhluk hidup. <br> <br>
 
-                                                Voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation.</p>
+                                                Selain menjadi wadah untuk mengadopsi, website kami juga disertai dengan ulasan-ulasan yang berkaitan dengan kucing untuk menambah pengetahuan dalam dunia perkucingan.</p>
                                             <a href="about-us.html">Read More</a>
 
                                         </div>
@@ -747,8 +757,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="main-title">
-                                <h2><span>Meet Our</span> Specialists</h2>
-                                <p>If you need a doctor for to consectetuer Lorem ipsum dolor, consectetur adipiscing elit. Ut volutpat eros adipiscing nonummy.</p>
+                                <h2><span>Galeri Kami</span></h2>
                             </div>
                         </div>
                     </div>
@@ -764,20 +773,17 @@
 
                                             <div class="gallery-sec">
                                                 <div class="image-hover img-layer-slide-left-right">
-                                                    <img src="images/team-member1.jpg" alt="">
+                                                    <img src="images/junior/bubu-02.jpg" alt="">
                                                     <div class="layer">
-                                                        <a href="#."><i class="icon-euro"></i></a>
-                                                        <a href="#."><i class="icon-yen"></i></a>
-                                                        <a href="#."><i class="icon-caddieshoppingstreamline"></i></a>
+                                                        <a href="team-member-detail.html">Lihat Profil</a>
                                                     </div>
                                                 </div>
                                             </div>
 
                                             <div class="detail">
-                                                <h6>Dr. Andrew Bert</h6>
-                                                <span>Outpatient Surgery</span>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec eros eget nisl fringilla commodo.</p>
-                                                <a href="team-member-detail.html">- View Profile</a>
+                                                <h6>Bubu</h6>
+                                                <span>Junior</span>
+                                                <p>Warna bulu dominan putih dengan sedikit corak orens di bagian kepala, punggung sebelah kanan, dan buntut. Warna mata abu-abu.</p>
                                             </div>
 
                                         </div>
@@ -785,20 +791,17 @@
 
                                             <div class="gallery-sec">
                                                 <div class="image-hover img-layer-slide-left-right">
-                                                    <img src="images/team-member2.jpg" alt="">
+                                                    <img src="images/dewasa/finn-010.jpg" alt="">
                                                     <div class="layer">
-                                                        <a href="#."><i class="icon-euro"></i></a>
-                                                        <a href="#."><i class="icon-yen"></i></a>
-                                                        <a href="#."><i class="icon-caddieshoppingstreamline"></i></a>
+                                                        <a href="team-member-detail.html">Lihat Profil</a>
                                                     </div>
                                                 </div>
                                             </div>
 
                                             <div class="detail">
-                                                <h6>Dr. Sara Stefon</h6>
-                                                <span>Cardiologist</span>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec eros eget nisl fringilla commodo.</p>
-                                                <a href="team-member-detail.html">- View Profile</a>
+                                                <h6>Finn</h6>
+                                                <span>Adult</span>
+                                                <p>Warna bulu belang-belang hitam kecokelatan. Warna mata kuning menyala.</p>
                                             </div>
 
                                         </div>
@@ -806,20 +809,17 @@
 
                                             <div class="gallery-sec">
                                                 <div class="image-hover img-layer-slide-left-right">
-                                                    <img src="images/team-member3.jpg" alt="">
+                                                    <img src="images/kitten/akio-01.jpg" alt="">
                                                     <div class="layer">
-                                                        <a href="#."><i class="icon-euro"></i></a>
-                                                        <a href="#."><i class="icon-yen"></i></a>
-                                                        <a href="#."><i class="icon-caddieshoppingstreamline"></i></a>
+                                                        <a href="team-member-detail.html">Lihat Profile</a>
                                                     </div>
                                                 </div>
                                             </div>
 
                                             <div class="detail">
-                                                <h6>Dr. Wahab Apple</h6>
-                                                <span>Heart Specialist</span>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec eros eget nisl fringilla commodo.</p>
-                                                <a href="team-member-detail.html">- View Profile</a>
+                                                <h6>Akio</h6>
+                                                <span>Kitten</span>
+                                                <p>Warna bulu dominan putih, ada corak belang cokelat, abu, dan orens di kepala. Warna mata kuning.</p>
                                             </div>
 
                                         </div>
@@ -828,20 +828,17 @@
 
                                             <div class="gallery-sec">
                                                 <div class="image-hover img-layer-slide-left-right">
-                                                    <img src="images/team-member4.jpg" alt="">
+                                                    <img src="images/kitten/mylo-09.jpg" alt="">
                                                     <div class="layer">
-                                                        <a href="#."><i class="icon-euro"></i></a>
-                                                        <a href="#."><i class="icon-yen"></i></a>
-                                                        <a href="#."><i class="icon-caddieshoppingstreamline"></i></a>
+                                                        <a href="team-member-detail.html">Lihat Profile</a>
                                                     </div>
                                                 </div>
                                             </div>
 
                                             <div class="detail">
-                                                <h6>Dr. Mecan smith</h6>
-                                                <span>Heart Specialist</span>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec eros eget nisl fringilla commodo.</p>
-                                                <a href="team-member-detail.html">- View Profile</a>
+                                                <h6>Myly</h6>
+                                                <span>Kitten</span>
+                                                <p>Warna bulu dominan campuran hitam dan orens, dan warna putih pada bagian leher hingga perut. Warna mata hijau kekuningan.</p>
                                             </div>
 
                                         </div>
@@ -850,20 +847,17 @@
 
                                             <div class="gallery-sec">
                                                 <div class="image-hover img-layer-slide-left-right">
-                                                    <img src="images/team-member5.jpg" alt="">
+                                                    <img src="images/dewasa/moly-022.jpg" alt="">
                                                     <div class="layer">
-                                                        <a href="#."><i class="icon-euro"></i></a>
-                                                        <a href="#."><i class="icon-yen"></i></a>
-                                                        <a href="#."><i class="icon-caddieshoppingstreamline"></i></a>
+                                                        <a href="team-member-detail.html">Lihat Profile</a>
                                                     </div>
                                                 </div>
                                             </div>
 
                                             <div class="detail">
-                                                <h6>Dr. Jack Bravo</h6>
-                                                <span>Heart Specialist</span>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec eros eget nisl fringilla commodo.</p>
-                                                <a href="team-member-detail.html">- View Profile</a>
+                                                <h6>Moly</h6>
+                                                <span>Adult</span>
+                                                <p>Warna bulu campuran warna hitam, orens, dan putih. Warna mata kuning terang.</p>
                                             </div>
 
                                         </div>
@@ -883,8 +877,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <span class="quote">"Meeting the challenges of an ever-changing healthcare environment."</span>
-                            <span class="name">- Dr. Jonathan Gobi</span>
+                            <span class="quote"><i>"Uang bisa membelikanmu kucing yang lucu, tapi uang tidak akan bisa membeli kibasan ekornya."</i></span>
                         </div>
                     </div>
                 </div>
@@ -900,8 +893,8 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="main-title">
-                                <h2><span>Latest News from</span> Medical guide</h2>
-                                <p>If you need a doctor for to consectetuer Lorem ipsum dolor, consectetur adipiscing elit. Ut volutpat eros adipiscing nonummy.</p>
+                                <h2><span>Sekilas Interme-ow</h2>
+                                <p>Beberapa artikel tentang dunia perkucingan, berbagai tutorial, serta tips&trick merawat kucing.</p>
                             </div>
                         </div>
                     </div>
@@ -917,33 +910,35 @@
                                     <div id="owl-demo" class="owl-carousel">
 
                                         <div class="post item">
-                                            <img class="lazyOwl" src="images/news-img1.jpg" alt="">
+                                            <img class="lazyOwl" src="images/blog/artikel1-bg.jpg" alt="">
                                             <div class="detail">
                                                 <img src="images/news-dr1.jpg" alt="">
-                                                <h4><a href="news-detail.html">Center for Medical</a></h4>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit eros...</p>
-                                                <span><i class="icon-clock3"></i> Apr 22, 2016</span>
+                                                <h4><a href="news-detail.html">10 Sifat dan kepribadian kucing menurut warna bulunya</a></h4>
+                                                <p>Benarkah kucing oranye adalah kucing yang nakal....</p>
+                                                <span><i class="icon-clock3"></i> Nov 12</span>
                                                 <span class="comment"><a href="news-detail.html"><i class="icon-icons206"></i> 5 Comments</a></span>
                                             </div>
                                         </div>
                                         <div class="post item">
-                                            <img class="lazyOwl" src="images/news-img2.jpg" alt="">
+                                            <img class="lazyOwl" src="images/blog/artikel2-bg.jpg" alt="">
                                             <div class="detail">
                                                 <img src="images/news-dr2.jpg" alt="">
-                                                <h4><a href="news-detail.html">Laboratory Tests</a></h4>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit eros...</p>
-                                                <span><i class="icon-clock3"></i> Apr 09, 2016</span>
+                                                <h4><a href="news-detail.html">Perilaku Unik Kucing</a></h4>
+                                                <p>Mengapa kucing suka terobsesi dengan plastik atau kotak sempit yang bahkan tidak
+                                                    muat untuk tubuhnya? Pernahkah kalian melihat kucing yang terobsesi.....</p>
+                                                <span><i class="icon-clock3"></i> Nov 11</span>
                                                 <span class="comment"><a href="news-detail.html"><i class="icon-icons206"></i> 3 Comments</a></span>
                                             </div>
                                         </div>
 
                                         <div class="post item">
-                                            <img class="lazyOwl" src="images/news-img3.jpg" alt="">
+                                            <img class="lazyOwl" src="images/blog/artikel3-bg.jpg" alt="">
                                             <div class="detail">
                                                 <img src="images/news-dr1.jpg" alt="">
-                                                <h4><a href="news-detail.html">Research Center</a></h4>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit eros...</p>
-                                                <span><i class="icon-clock3"></i> Mar 28, 2016</span>
+                                                <h4><a href="news-detail.html">Fakta Unik Kucing yang jarang orang ketahui</a></h4>
+                                                <p>Pernahkah kamu melihat seekor kucing yang hanya menghabiskan waktunya
+                                                    untuk tidur seharian?</p>
+                                                <span><i class="icon-clock3"></i>Jan 22</span>
                                                 <span class="comment"><a href="news-detail.html"><i class="icon-icons206"></i> 0 Comments</a></span>
                                             </div>
                                         </div>
