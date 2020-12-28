@@ -98,16 +98,10 @@
                                         <ul class="submenu">
                                             <li> <a href="index.html">Mau Adopsi</a> </li>
                                             <li> <a href="index2.html">Cari pengadopsi</a> </li>
-                                            <li class="select-menu"> <a href="index3.html">Home Page 3</a> </li>
-                                            <li> <a href="index4.html">Home Page 4</a> </li>
                                         </ul>
                                     </li>
 
                                     <li class="parent"><a href="#.">Meows-up</a>
-                                        <ul class="submenu">
-                                            <li> <a href="about-us.html">About Us</a> </li>
-                                            <li> <a href="about-us2.html">About Us 2</a> </li>
-                                        </ul>
                                     </li>
 
                                     <li class="parent"><a href="#.">Interme-ow</a>
@@ -115,12 +109,6 @@
                                             <li> <a href="services.html">Artikel</a> </li>
                                             <li> <a href="services2.html">Tutorial</a> </li>
                                             <li> <a href="appointment.html">Tips&trick</a> </li>
-                                            <li> <a href="departments.html">Departments</a> </li>
-                                            <li> <a href="patient-and-family.html">Patient and Family</a> </li>
-                                            <li> <a href="team-members.html">Team Members One</a> </li>
-                                            <li> <a href="team-members2.html">Team Members Two</a> </li>
-                                            <li> <a href="research.html">Research</a> </li>
-                                            <li> <a href="tables.html">Pricing tabels</a> </li>
                                         </ul>
                                     </li>
 
@@ -130,19 +118,25 @@
 
                                         <ul class="submenu">
 
-                                            <li class="parent"> <a href="#">Simple Gallery</a> <i class="icon-chevron-small-right"></i>
+                                            <li class="parent"> <a href="#">Pet shop</a> <i class="icon-chevron-small-right"></i>
                                                 <ul class="submenu">
-                                                    <li> <a href="gallery-simple-two.html">Columns Two</a> </li>
-                                                    <li> <a href="gallery-simple-three.html">Columns Three</a> </li>
-                                                    <li> <a href="gallery-simple-four.html">Columns Four</a> </li>
+                                                    <li> <a href="gallery-simple-two.html">Jakarta Pusat</a> </li>
+                                                    <li> <a href="gallery-simple-three.html">Jakarta Timur</a> </li>
+                                                    <li> <a href="gallery-simple-four.html">Jakarta Barat</a> </li>
+                                                    <li> <a href="gallery-simple-four.html">Jakarta Utara</a> </li>
+                                                    <li> <a href="gallery-simple-four.html">Jakarta Selatan</a> </li>
+                                                    <li> <a href="gallery-simple-four.html">Bekasi</a> </li>
                                                 </ul>
                                             </li>
 
-                                            <li class="parent"> <a href="#">Nimble Gallery</a> <i class="icon-chevron-small-right"></i>
+                                            <li class="parent"> <a href="#">Pet klinik</a> <i class="icon-chevron-small-right"></i>
                                                 <ul class="submenu">
-                                                    <li> <a href="gallery-nimble-two.html">Columns Two</a> </li>
-                                                    <li> <a href="gallery-nimble-three.html">Columns Three</a> </li>
-                                                    <li> <a href="gallery-nimble-four.html">Columns Four</a> </li>
+                                                    <li> <a href="gallery-simple-two.html">Jakarta Pusat</a> </li>
+                                                    <li> <a href="gallery-simple-three.html">Jakarta Timur</a> </li>
+                                                    <li> <a href="gallery-simple-four.html">Jakarta Barat</a> </li>
+                                                    <li> <a href="gallery-simple-four.html">Jakarta Utara</a> </li>
+                                                    <li> <a href="gallery-simple-four.html">Jakarta Selatan</a> </li>
+                                                    <li> <a href="gallery-simple-four.html">Bekasi</a> </li>
                                                 </ul>
                                             </li>
 
@@ -151,24 +145,22 @@
                                     </li>
 
                                     <li class="parent"><a href="#.">Hubungi kami</a>
+                                    </li>
+
+                                    <li class="item-select parent"><a href="#."><i class="icon-user"></i></a>
                                         <ul class="submenu">
-                                            <li> <a href="news-sidebar.html">Sidebar</a> </li>
-                                            <li> <a href="news-text.html">Text-Based</a> </li>
-                                            <li> <a href="news-single.html">Single Post</a> </li>
-                                            <li> <a href="news-double.html">Double Post</a> </li>
-                                            <li> <a href="news-masonary.html">Masonary</a> </li>
+                                            <li> <a href="index.html">Daftar</a> </li>
+                                            <li> <a href="index2.html">Masuk</a> </li>
                                         </ul>
                                     </li>
 
 
-                                    <li class="parent"><a href="#.">Contact Us</a>
+                                    <!-- <li class="parent"><a href="#.">Contact Us</a>
                                         <ul class="submenu">
                                             <li> <a href="contact-us.html">Contact-Us One</a> </li>
                                             <li> <a href="contact-us2.html">Contact-Us Two</a> </li>
                                         </ul>
-                                    </li>
-
-                                    <li><a href="shop.html">Shop</a></li>
+                                    </li> -->
 
                                 </ul>
                             </nav>
@@ -988,7 +980,7 @@
 
         <!--Start Footer-->
         <footer class="footer" id="footer">
-            <div class="container">
+            <!-- <div class="container">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="emergency">
@@ -998,132 +990,132 @@
                             <img src="images/emergency-divider.png" alt="">
                         </div>
                     </div>
-                </div>
+                </div> -->
 
 
-                <div class="main-footer">
-                    <div class="row">
+            <div class="main-footer">
+                <div class="row">
 
-                        <div class="col-md-3">
+                    <div class="col-md-4">
 
-                            <div class="useful-links">
-                                <div class="title">
-                                    <h5>Medical guide</h5>
+                        <div class="useful-links">
+                            <div class="title">
+                                <h5>Layanan Kitty Care</h5>
+                            </div>
+
+                            <div class="detail">
+                                <ul>
+
+                                    <li><a href="#.">Mau adopsi</a></li>
+                                    <li><a href="#.">Cari pengadopsi</a></li>
+                                    <li><a href="#.">Meows-up</a></li>
+                                    <li><a href="#.">Artikel</a></li>
+                                    <li><a href="#.">Tutorial</a></li>
+                                    <li><a href="#.">Tips&trick</a></li>
+                                    <li><a href="#.">Donasi</a></li>
+                                    <li><a href="#.">Pet shop</a></li>
+                                    <li><a href="#.">Pet klinik</a></li>
+
+                                </ul>
+                            </div>
+
+                        </div>
+
+                    </div>
+                    <!-- <div class="col-md-3">
+
+
+                        <div class="title">
+                            <h5>LATEST TWEETS</h5>
+                        </div>
+
+                        <div class="detail">
+
+                            <div class="tweets">
+
+                                <div class="icon">
+                                    <i class="icon-yen"></i>
                                 </div>
 
-                                <div class="detail">
-                                    <ul>
+                                <div class="text">
+                                    <p><a href="#.">@Rotography</a> Please kindly use Support Forum: <a href="#.">Medical.co.uk</a></p>
+                                    <span>3 days ago</span>
+                                </div>
 
-                                        <li><a href="#.">Home</a></li>
-                                        <li><a href="#.">About Us</a></li>
-                                        <li><a href="#.">Services</a></li>
-                                        <li><a href="#.">Departments</a></li>
-                                        <li><a href="#.">Timetable</a></li>
-                                        <li><a href="#.">Why Us</a></li>
-                                        <li><a href="#.">Specilaties</a></li>
-                                        <li><a href="#.">Contact Us</a></li>
-                                        <li><a href="#.">Events</a></li>
+                            </div>
 
-                                    </ul>
+                            <div class="tweets">
+
+                                <div class="icon">
+                                    <i class="icon-yen"></i>
+                                </div>
+
+                                <div class="text">
+                                    <p>A quick launcher for WordPress dashboard <a href="#.">@Medical</a></p>
+                                    <span>about a week ago</span>
                                 </div>
 
                             </div>
 
                         </div>
-                        <div class="col-md-3">
 
 
+
+                    </div> -->
+                    <div class="col-md-4">
+
+                        <div class="newsletter">
                             <div class="title">
-                                <h5>LATEST TWEETS</h5>
+                                <h5>Kritik dan Saran</h5>
                             </div>
 
                             <div class="detail">
 
-                                <div class="tweets">
-
-                                    <div class="icon">
-                                        <i class="icon-yen"></i>
-                                    </div>
-
-                                    <div class="text">
-                                        <p><a href="#.">@Rotography</a> Please kindly use Support Forum: <a href="#.">Medical.co.uk</a></p>
-                                        <span>3 days ago</span>
-                                    </div>
-
+                                <div class="signup-text">
+                                    <i class="icon-dollar"></i>
+                                    <span>Masuk dengan akun Anda untuk memberikan kritik dan saran.</span>
                                 </div>
 
-                                <div class="tweets">
+                                <div class="form">
+                                    <p class="subscribe_success" id="subscribe_success" style="display:none;"></p>
+                                    <p class="subscribe_error" id="subscribe_error" style="display:none;"></p>
 
-                                    <div class="icon">
-                                        <i class="icon-yen"></i>
-                                    </div>
-
-                                    <div class="text">
-                                        <p>A quick launcher for WordPress dashboard <a href="#.">@Medical</a></p>
-                                        <span>about a week ago</span>
-                                    </div>
-
+                                    <form name="subscribe_form" id="subscribe_form" method="post" action="#" onSubmit="return false">
+                                        <input type="text" data-delay="300" placeholder="Email Anda" name="subscribe_email" id="subscribe_email" onKeyPress="removeChecks();" class="input">
+                                        <input type="text" data-delay="300" placeholder="Password" name="subscribe_password" id="subscribe_password" onKeyPress="removeChecks();" class="input">
+                                        <input name="Kirim" type="submit" value="Kirim" onClick="validateSubscription();">
+                                    </form>
                                 </div>
 
                             </div>
 
 
-
                         </div>
-                        <div class="col-md-3">
 
-                            <div class="newsletter">
-                                <div class="title">
-                                    <h5>NEWSLETTER</h5>
-                                </div>
+                    </div>
+                    <div class="col-md-4">
 
-                                <div class="detail">
-
-                                    <div class="signup-text">
-                                        <i class="icon-dollar"></i>
-                                        <span>Sign up with your name and email to get updates fresh updates.</span>
-                                    </div>
-
-                                    <div class="form">
-                                        <p class="subscribe_success" id="subscribe_success" style="display:none;"></p>
-                                        <p class="subscribe_error" id="subscribe_error" style="display:none;"></p>
-
-                                        <form name="subscribe_form" id="subscribe_form" method="post" action="#" onSubmit="return false">
-                                            <input type="text" data-delay="300" placeholder="Your Name" name="subscribe_name" id="subscribe_name" onKeyPress="removeChecks();" class="input">
-                                            <input type="text" data-delay="300" placeholder="Email Address" name="subscribe_email" id="subscribe_email" onKeyPress="removeChecks();" class="input">
-                                            <input name="Subscribe" type="submit" value="Subscribe" onClick="validateSubscription();">
-                                        </form>
-                                    </div>
-
-                                </div>
-
-
+                        <div class="get-touch">
+                            <div class="title">
+                                <h5>Ikuti kami di media sosial</h5>
                             </div>
 
-                        </div>
-                        <div class="col-md-3">
+                            <div class="detail">
+                                <div class="get-touch">
 
-                            <div class="get-touch">
-                                <div class="title">
-                                    <h5>GET IN TOUCH</h5>
+
+                                    <span class="text">Dapatkan info update dari kami lebih mudah melalui media sosial</span>
+
+
+                                    <ul>
+                                        <!-- <li><i class="icon-location"></i> <span>Medical Ltd, Manhattan 1258, New York, USA Lahore</span></li> -->
+                                        <li><i class="icon-phone4"></i> <span>(+62) 85715888301</span></li>
+                                        <li><a href="#."><i class="icon-dollar"></i> <span>kittycarecenter@gmail.com</span></a></li>
+                                        <li><a href="https://www.instagram.com/kittycare_center/"><i class="icon-euro"></i><span>Kitty Care Center</span></a></li>
+                                        <li><a href="https://www.instagram.com/kittycare_center/"><i class="icon-instagram"></i><span>kittycare_center</span></a></li>
+                                    </ul>
+
                                 </div>
-
-                                <div class="detail">
-                                    <div class="get-touch">
-
-
-                                        <span class="text">Medical Bibendum auctor, to consequat ipsum, nec sagittis sem</span>
-
-
-                                        <ul>
-                                            <li><i class="icon-location"></i> <span>Medical Ltd, Manhattan 1258, New York, USA Lahore</span></li>
-                                            <li><i class="icon-phone4"></i> <span>(+1) 234 567 8901</span></li>
-                                            <li><a href="#."><i class="icon-dollar"></i> <span>hello@medical-guide.com</span></a></li>
-                                        </ul>
-
-                                    </div>
-                                </div>
-
                             </div>
 
                         </div>
@@ -1134,34 +1126,34 @@
 
             </div>
 
-            <div class="footer-bottom">
-                <div class="container">
-                    <div class="row">
+    </div>
 
-                        <div class="col-md-6">
-                            <span class="copyrights">Copyright &copy; 2015 Medical Guide. All right reserved.</span>
-                        </div>
+    <div class="footer-bottom">
+        <div class="container">
+            <div class="row">
 
-                        <div class="col-md-6">
-                            <div class="social-icons">
-                                <a href="#." class="fb"><i class="icon-euro"></i></a>
-                                <a href="#." class="tw"><i class="icon-yen"></i></a>
-                                <a href="#." class="gp"><i class="icon-google-plus"></i></a>
-                                <a href="#." class="vimeo"><i class="icon-vimeo4"></i></a>
-                            </div>
-                        </div>
-
-                    </div>
+                <div class="col-md-12">
+                    <span class="copyrights">Copyright &copy; 2020 Kitty Care Center. Developed with love by Hana Huwaida, Windu Wulandari, Adelia Melanie Putri. special thanks to Vienda Miccela</span>
                 </div>
 
+                <!-- <div class="col-md-2">
+                    <div class="social-icons">
+                        <a href="#." class="fb"><i class="icon-euro"></i></a>
+                        <a href="#." class="tw"><i class="icon-yen"></i></a>
+                    </div>
+                </div> -->
+
             </div>
+        </div>
 
-        </footer>
-        <!--End Footer-->
+    </div>
+
+    </footer>
+    <!--End Footer-->
 
 
 
-        <a href="#0" class="cd-top"></a>
+    <a href="#0" class="cd-top"></a>
     </div>
 
 

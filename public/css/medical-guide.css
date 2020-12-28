@@ -682,8 +682,8 @@ img:hover {
 /*..... FOOTER ......*/
 
 .footer {
-    background: #434a5a;
-    border-top: solid 6px #373e4c;
+    background: #b27c57;
+    border-top: solid 6px #3c455c;
 }
 
 .footer .emergency {
@@ -805,7 +805,7 @@ img:hover {
 .main-footer .newsletter .signup-text {}
 
 .main-footer .newsletter .signup-text i {
-    color: #fff;
+    color: #ffffff;
     font-size: 28px;
     float: left;
     margin: 6px 12px 0 0;
@@ -825,8 +825,8 @@ img:hover {
 }
 
 .main-footer .newsletter .form input[type=text] {
-    background: #373e4c;
-    border: solid 1px #7b8498;
+    background: #dde2e3;
+    border: solid 1px #3c455c;
     border-radius: 5px;
     width: 100%;
     color: #fff;
@@ -836,7 +836,7 @@ img:hover {
 }
 
 .main-footer .newsletter .form input[type=submit] {
-    background: #fff;
+    background: #dde2e3;
     border: none;
     text-transform: uppercase;
     color: #373e4c;

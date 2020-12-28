@@ -177,6 +177,15 @@
 .icon-yen:before {
 	content: "\e603";
 }
+.icon-profile:before {
+	content: "\e636";
+}
+.icon-user:before {
+	content: "\e648";
+}
+.icon-instagram:before {
+	content: "\e04f";
+}
 .icon-euro:before {
 	content: "\e604";
 }
