@@ -58,15 +58,15 @@
                         </div> -->
 
 
-                <div class="tp-caption white_regular_36-light customin tp-resizeme rs-parallaxlevel-0" data-x="0"
+                <div class="tp-caption white_regular_36-light customin tp-resizeme rs-parallaxlevel-0" data-x="-2"
                     data-y="400"
                     data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
                     data-speed="500" data-start="2200" data-easing="Power3.easeInOut" data-splitin="none"
                     data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.1"
                     style="z-index: 9; max-width: auto; max-height: auto; white-space: nowrap;">
                     <div style="text-align:left;">
-                        <p style="color:white;">Mereka hanya menginginkan sedikit pemberianmu. <br />Berilah
-                            mereka sedikit dari sisa makananmu </p>
+                        <p style="color:white;">Mereka hanya menginginkan tatapan lembut penuh <br>kasih sayang, juga
+                            sedikit ruang untuk berlindung </p>
                     </div>
                 </div>
 
