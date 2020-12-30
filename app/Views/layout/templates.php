@@ -264,7 +264,7 @@
 
                                         <form name="subscribe_form" id="subscribe_form" method="post" action="#" onSubmit="return false">
                                             <input type="text" data-delay="300" placeholder="Email Anda" name="subscribe_email" id="subscribe_email" onKeyPress="removeChecks();" class="input">
-                                            <input type="text" data-delay="300" placeholder="Password" name="subscribe_password" id="subscribe_password" onKeyPress="removeChecks();" class="input">
+                                            <input type="password" data-delay="300" placeholder="Password" name="subscribe_password" id="subscribe_password" onKeyPress="removeChecks();" class="input">
                                             <input name="Kirim" type="submit" value="Kirim" onClick="validateSubscription();">
                                         </form>
                                     </div>

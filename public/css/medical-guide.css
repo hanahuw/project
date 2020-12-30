@@ -613,8 +613,11 @@ img:hover {
 }
 
 .latest-news .post .detail a {
-    color: #727272;
+    <<<<<<< HEAD color: #727272;
     display: block;
+    =======color: #60412b;
+    display: block;
+    >>>>>>>009ff62b4dee04429ed0e63d5b463561a99df69a
 }
 
 
@@ -825,7 +828,7 @@ img:hover {
 }
 
 .main-footer .newsletter .form input[type="text"] {
-    background: #60412b;
+    <<<<<<< HEAD background: #60412b;
     border: solid 1px #b37c57;
     border-radius: 1px;
     width: 90%;
@@ -833,6 +836,26 @@ img:hover {
     padding: 10px 14px;
     font-size: 14px;
     margin: 0 0 9px 0;
+    =======background: #60412b;
+    border: solid 1px #b37c57;
+    border-radius: 1px;
+    width: 90%;
+    color: white;
+    padding: 10px 14px;
+    font-size: 14px;
+    margin: 0 0 9px 0;
+}
+
+.main-footer .newsletter .form input[type="password"] {
+    background: #60412b;
+    border: solid 1px #b37c57;
+    border-radius: 1px;
+    width: 90%;
+    color: white;
+    padding: 10px 14px;
+    font-size: 14px;
+    margin: 0 0 9px 0;
+    >>>>>>>009ff62b4dee04429ed0e63d5b463561a99df69a
 }
 
 .main-footer .newsletter .form input[type="submit"] {
@@ -4216,9 +4239,19 @@ a .img-layer-slide-left-right .layer {
 /*************************** EASY RESPONSIVE TABS **********************************/
 
 ul.resp-tabs-list,
-p {
+h2 {
     margin: 0px;
     padding: 0px;
+    /* color: white; */
+}
+
+p {
+    <<<<<<< HEAD margin: 0px;
+    padding: 0px;
+    =======margin: 0px;
+    padding: 0px;
+    /* color: white; */
+    >>>>>>>009ff62b4dee04429ed0e63d5b463561a99df69a
 }
 
 .resp-tabs-list li {
