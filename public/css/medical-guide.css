@@ -98,7 +98,17 @@ h2 {
   font-weight: 700;
   font-size: 42px;
   font-family: "Raleway", sans-serif;
-  color: #222222;
+  color: #60412b;
+}
+
+p {
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 27px;
+  color: #b37c57;
+}
+
 }
 
 h3 {
@@ -106,12 +116,14 @@ h3 {
   font-weight: 300;
   font-size: 32px;
   font-family: "Raleway", sans-serif;
+  color: #b37c57;
 }
 
 h4 {
   font-weight: 600;
   font-size: 28px;
   font-family: "Raleway", sans-serif;
+  color: #60412b;
 }
 
 h5 {
@@ -602,7 +614,7 @@ img:hover {
 }
 
 .latest-news .post .detail a {
-  color: #727272;
+  color: #60412b;
   display: block;
 }
 
@@ -817,7 +829,18 @@ img:hover {
   border: solid 1px #b37c57;
   border-radius: 1px;
   width: 90%;
-  color: #b37c57;
+  color: white;
+  padding: 10px 14px;
+  font-size: 14px;
+  margin: 0 0 9px 0;
+}
+
+.main-footer .newsletter .form input[type="password"] {
+  background: #60412b;
+  border: solid 1px #b37c57;
+  border-radius: 1px;
+  width: 90%;
+  color: white;
   padding: 10px 14px;
   font-size: 14px;
   margin: 0 0 9px 0;
@@ -4184,9 +4207,16 @@ a .img-layer-slide-left-right .layer {
 /*************************** EASY RESPONSIVE TABS **********************************/
 
 ul.resp-tabs-list,
+h2{
+  margin: 0px;
+  padding: 0px;
+  /* color: white; */
+}
+
 p {
   margin: 0px;
   padding: 0px;
+  /* color: white; */
 }
 
 .resp-tabs-list li {

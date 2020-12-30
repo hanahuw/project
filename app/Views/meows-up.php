@@ -2,6 +2,101 @@
 
 <?= $this->section('content'); ?>
 
+<!--Start Navbar-->
+
+<div id="header-2">
+
+    <header class="header header2">
+        <div class="container">
+
+
+            <div class="row">
+
+                <div class="col-md-3">
+                    <a href="/" class="logo"><img src="images/kittycare/home5.png"></a>
+
+                </div>
+
+
+                <div class="col-md-9">
+
+
+                    <nav class="menu-2">
+                        <ul class="nav wtf-menu">
+                            <li><a href="#.">Adopsi</a>
+                                <ul class="submenu">
+                                    <li> <a href="/mau-adopsi">Mau Adopsi</a> </li>
+                                    <li> <a href="index2.html">Cari pengadopsi</a> </li>
+                                </ul>
+                            </li>
+
+                            <li class="item-select parent"><a href="/meows-up">Meows-up</a>
+                            </li>
+
+                            <li class="parent"><a href="#.">Interme-ow</a>
+                                <ul class="submenu">
+                                    <li> <a href="/artikel-home">Artikel</a> </li>
+                                    <li> <a href="/tutorial">Tutorial</a> </li>
+                                    <li> <a href="/tipsntrik">Tips&trick</a> </li>
+                                </ul>
+                            </li>
+
+                            <li><a href="/donasi">Donasi</a></li>
+
+                            <li class="parent"><a href="#.">Petcare</a>
+
+                                <ul class="submenu">
+
+                                    <li class="parent"> <a href="#">Pet shop</a> <i
+                                            class="icon-chevron-small-right"></i>
+                                        <ul class="submenu">
+                                            <li> <a href="/petshop-jp">Jakarta Pusat</a> </li>
+                                            <li> <a href="/petshop-jt">Jakarta Timur</a> </li>
+                                            <li> <a href="/petshop-jb">Jakarta Barat</a> </li>
+                                            <li> <a href="/petshop-ju">Jakarta Utara</a> </li>
+                                            <li> <a href="/petshop-js">Jakarta Selatan</a> </li>
+                                            <li> <a href="/petshop-bk">Bekasi</a> </li>
+                                        </ul>
+                                    </li>
+
+                                    <li class="parent"> <a href="#">Pet klinik</a> <i
+                                            class="icon-chevron-small-right"></i>
+                                        <ul class="submenu">
+                                            <li> <a href="gallery-simple-two.html">Jakarta Pusat</a> </li>
+                                            <li> <a href="gallery-simple-three.html">Jakarta Timur</a> </li>
+                                            <li> <a href="gallery-simple-four.html">Jakarta Barat</a> </li>
+                                            <li> <a href="gallery-simple-four.html">Jakarta Utara</a> </li>
+                                            <li> <a href="gallery-simple-four.html">Jakarta Selatan</a> </li>
+                                            <li> <a href="gallery-simple-four.html">Bekasi</a> </li>
+                                        </ul>
+                                    </li>
+
+                                </ul>
+
+                            </li>
+
+                            <li class="parent"><a href="#."><i class="icon-user"></i></a>
+                                <ul class="submenu">
+                                    <li> <a href="index.html">Profile</a> </li>
+                                    <li> <a href="index2.html">Pengaturan</a> </li>
+                                    <li> <a href="index2.html">Keluar</a> </li>
+                                </ul>
+                            </li>
+
+                        </ul>
+                    </nav>
+
+                </div>
+
+            </div>
+
+
+        </div>
+    </header>
+</div>
+
+<!--End Navbar-->
+<br>
 <!--Start Banner-->
 
 <div class="sub-banner">
@@ -41,7 +136,8 @@
                 <div class="col-md-12">
                     <div class="main-title">
                         <h2><span>Special</span> Services</h2>
-                        <p>If you need a doctor for to consectetuer Lorem ipsum dolor, consectetur adipiscing elit. Ut volutpat eros adipiscing nonummy.</p>
+                        <p>If you need a doctor for to consectetuer Lorem ipsum dolor, consectetur adipiscing elit. Ut
+                            volutpat eros adipiscing nonummy.</p>
                     </div>
                 </div>
             </div>
@@ -53,7 +149,8 @@
                         <img class="banner-img" src="images/service-two-img1.jpg" alt="">
                         <div class="detail">
                             <h5>Dental Implants</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur of adipiscing elit. Donec nec eros eget nisl fringilla commodo. Maecenas.</p>
+                            <p>Lorem ipsum dolor sit amet, consectetur of adipiscing elit. Donec nec eros eget nisl
+                                fringilla commodo. Maecenas.</p>
                             <a href="#.">- Read More</a>
                         </div>
                     </div>
@@ -64,7 +161,8 @@
                         <img class="banner-img" src="images/service-two-img4.jpg" alt="">
                         <div class="detail">
                             <h5>Heart Specialist</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur of adipiscing elit. Donec nec eros eget nisl fringilla commodo. Maecenas.</p>
+                            <p>Lorem ipsum dolor sit amet, consectetur of adipiscing elit. Donec nec eros eget nisl
+                                fringilla commodo. Maecenas.</p>
                             <a href="#.">- Read More</a>
                         </div>
                     </div>
@@ -75,7 +173,8 @@
                         <img class="banner-img" src="images/service-two-img5.jpg" alt="">
                         <div class="detail">
                             <h5>Laboratory Tests</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur of adipiscing elit. Donec nec eros eget nisl fringilla commodo. Maecenas.</p>
+                            <p>Lorem ipsum dolor sit amet, consectetur of adipiscing elit. Donec nec eros eget nisl
+                                fringilla commodo. Maecenas.</p>
                             <a href="#.">- Read More</a>
                         </div>
                     </div>
@@ -86,7 +185,8 @@
                         <img class="banner-img" src="images/service-two-img6.jpg" alt="">
                         <div class="detail">
                             <h5>Operation Theater</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur of adipiscing elit. Donec nec eros eget nisl fringilla commodo. Maecenas.</p>
+                            <p>Lorem ipsum dolor sit amet, consectetur of adipiscing elit. Donec nec eros eget nisl
+                                fringilla commodo. Maecenas.</p>
                             <a href="#.">- Read More</a>
                         </div>
                     </div>
@@ -97,7 +197,8 @@
                         <img class="banner-img" src="images/service-two-img2.jpg" alt="">
                         <div class="detail">
                             <h5>ICU Department</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur of adipiscing elit. Donec nec eros eget nisl fringilla commodo. Maecenas.</p>
+                            <p>Lorem ipsum dolor sit amet, consectetur of adipiscing elit. Donec nec eros eget nisl
+                                fringilla commodo. Maecenas.</p>
                             <a href="#.">- Read More</a>
                         </div>
                     </div>
@@ -108,7 +209,8 @@
                         <img class="banner-img" src="images/service-two-img3.jpg" alt="">
                         <div class="detail">
                             <h5>Liposuction Department</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur of adipiscing elit. Donec nec eros eget nisl fringilla commodo. Maecenas.</p>
+                            <p>Lorem ipsum dolor sit amet, consectetur of adipiscing elit. Donec nec eros eget nisl
+                                fringilla commodo. Maecenas.</p>
                             <a href="#.">- Read More</a>
                         </div>
                     </div>
@@ -119,7 +221,8 @@
                         <img class="banner-img" src="images/service-two-img7.jpg" alt="">
                         <div class="detail">
                             <h5>Baby Birth</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur of adipiscing elit. Donec nec eros eget nisl fringilla commodo. Maecenas.</p>
+                            <p>Lorem ipsum dolor sit amet, consectetur of adipiscing elit. Donec nec eros eget nisl
+                                fringilla commodo. Maecenas.</p>
                             <a href="#.">- Read More</a>
                         </div>
                     </div>
@@ -130,7 +233,8 @@
                         <img class="banner-img" src="images/service-two-img8.jpg" alt="">
                         <div class="detail">
                             <h5>Eye Specialist</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur of adipiscing elit. Donec nec eros eget nisl fringilla commodo. Maecenas.</p>
+                            <p>Lorem ipsum dolor sit amet, consectetur of adipiscing elit. Donec nec eros eget nisl
+                                fringilla commodo. Maecenas.</p>
                             <a href="#.">- Read More</a>
                         </div>
                     </div>
