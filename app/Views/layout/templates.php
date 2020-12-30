@@ -99,12 +99,7 @@
                                     <li class="parent"><a href="/meows-up">Meows-up</a>
                                     </li>
 
-                                    <li class="parent"><a href="#.">Interme-ow</a>
-                                        <ul class="submenu">
-                                            <li> <a href="/artikel-home">Artikel</a> </li>
-                                            <li> <a href="/tutorial">Tutorial</a> </li>
-                                            <li> <a href="/tipsntrik">Tips&trick</a> </li>
-                                        </ul>
+                                    <li class="parent"><a href="/interme-ow">Interme-ow</a>
                                     </li>
 
                                     <li><a href="/donasi">Donasi</a></li>
@@ -126,12 +121,12 @@
 
                                             <li class="parent"> <a href="#">Pet klinik</a> <i class="icon-chevron-small-right"></i>
                                                 <ul class="submenu">
-                                                    <li> <a href="gallery-simple-two.html">Jakarta Pusat</a> </li>
-                                                    <li> <a href="gallery-simple-three.html">Jakarta Timur</a> </li>
-                                                    <li> <a href="gallery-simple-four.html">Jakarta Barat</a> </li>
-                                                    <li> <a href="gallery-simple-four.html">Jakarta Utara</a> </li>
-                                                    <li> <a href="gallery-simple-four.html">Jakarta Selatan</a> </li>
-                                                    <li> <a href="gallery-simple-four.html">Bekasi</a> </li>
+                                                    <li> <a href="/petklinik-jp">Jakarta Pusat</a> </li>
+                                                    <li> <a href="/petklinik-jt">Jakarta Timur</a> </li>
+                                                    <li> <a href="/petklinik-jb">Jakarta Barat</a> </li>
+                                                    <li> <a href="/petklinik-ju">Jakarta Utara</a> </li>
+                                                    <li> <a href="/petklinik-js">Jakarta Selatan</a> </li>
+                                                    <li> <a href="/petklinik-bk">Bekasi</a> </li>
                                                 </ul>
                                             </li>
 
@@ -139,12 +134,9 @@
 
                                     </li>
 
-                                    <li class="parent"><a href="#.">Contact Us</a>
-                                    </li>
-
                                     <li class="parent"><a href="#."><i class="icon-user"></i></a>
                                         <ul class="submenu">
-                                            <li> <a href="index.html">Daftar</a> </li>
+                                            <li> <a href="#.">Daftar</a> </li>
                                             <li> <a href="index2.html">Masuk</a> </li>
                                         </ul>
                                     </li>

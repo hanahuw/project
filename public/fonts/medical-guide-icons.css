@@ -62,6 +62,9 @@
 .icon-brain:before {
 	content: "\ebe5";
 }
+.icon-books:before {
+	content: "\e633";
+}
 .icon-DNA:before {
 	content: "\ebe6";
 }
