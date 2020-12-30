@@ -101,7 +101,15 @@ h2 {
     font-weight: 700;
     font-size: 42px;
     font-family: "Raleway", sans-serif;
-    color: #222222;
+    color: #60412b;
+}
+
+p {
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 27px;
+    color: #b37c57;
 }
 
 h3 {
@@ -109,12 +117,14 @@ h3 {
     font-weight: 300;
     font-size: 32px;
     font-family: "Raleway", sans-serif;
+    color: #b37c57;
 }
 
 h4 {
     font-weight: 600;
     font-size: 28px;
     font-family: "Raleway", sans-serif;
+    color: #60412b;
 }
 
 h5 {
@@ -613,11 +623,8 @@ img:hover {
 }
 
 .latest-news .post .detail a {
-    <<<<<<< HEAD color: #727272;
+    color: #60412b;
     display: block;
-    =======color: #60412b;
-    display: block;
-    >>>>>>>009ff62b4dee04429ed0e63d5b463561a99df69a
 }
 
 
@@ -828,15 +835,7 @@ img:hover {
 }
 
 .main-footer .newsletter .form input[type="text"] {
-    <<<<<<< HEAD background: #60412b;
-    border: solid 1px #b37c57;
-    border-radius: 1px;
-    width: 90%;
-    color: #b37c57;
-    padding: 10px 14px;
-    font-size: 14px;
-    margin: 0 0 9px 0;
-    =======background: #60412b;
+    background: #60412b;
     border: solid 1px #b37c57;
     border-radius: 1px;
     width: 90%;
@@ -855,7 +854,6 @@ img:hover {
     padding: 10px 14px;
     font-size: 14px;
     margin: 0 0 9px 0;
-    >>>>>>>009ff62b4dee04429ed0e63d5b463561a99df69a
 }
 
 .main-footer .newsletter .form input[type="submit"] {
@@ -4246,12 +4244,9 @@ h2 {
 }
 
 p {
-    <<<<<<< HEAD margin: 0px;
-    padding: 0px;
-    =======margin: 0px;
+    margin: 0px;
     padding: 0px;
     /* color: white; */
-    >>>>>>>009ff62b4dee04429ed0e63d5b463561a99df69a
 }
 
 .resp-tabs-list li {
