@@ -33,12 +33,7 @@
                             <li class="parent"><a href="/meows-up">Meows-up</a>
                             </li>
 
-                            <li class="parent"><a href="#.">Interme-ow</a>
-                                <ul class="submenu">
-                                    <li> <a href="/artikel-home">Artikel</a> </li>
-                                    <li> <a href="/tutorial">Tutorial</a> </li>
-                                    <li> <a href="/tipsntrik">Tips&trick</a> </li>
-                                </ul>
+                            <li class="parent"><a href="/interme-ow">Interme-ow</a>
                             </li>
 
                             <li><a href="/donasi">Donasi</a></li>
@@ -47,8 +42,7 @@
 
                                 <ul class="submenu">
 
-                                    <li class="parent"> <a href="#">Pet shop</a> <i
-                                            class="icon-chevron-small-right"></i>
+                                    <li class="parent"> <a href="#">Pet shop</a> <i class="icon-chevron-small-right"></i>
                                         <ul class="submenu">
                                             <li> <a href="/petshop-jp">Jakarta Pusat</a> </li>
                                             <li> <a href="/petshop-jt">Jakarta Timur</a> </li>
@@ -59,15 +53,14 @@
                                         </ul>
                                     </li>
 
-                                    <li class="parent"> <a href="#">Pet klinik</a> <i
-                                            class="icon-chevron-small-right"></i>
+                                    <li class="parent"> <a href="#">Pet klinik</a> <i class="icon-chevron-small-right"></i>
                                         <ul class="submenu">
-                                            <li> <a href="gallery-simple-two.html">Jakarta Pusat</a> </li>
-                                            <li> <a href="gallery-simple-three.html">Jakarta Timur</a> </li>
-                                            <li> <a href="gallery-simple-four.html">Jakarta Barat</a> </li>
-                                            <li> <a href="gallery-simple-four.html">Jakarta Utara</a> </li>
-                                            <li> <a href="gallery-simple-four.html">Jakarta Selatan</a> </li>
-                                            <li> <a href="gallery-simple-four.html">Bekasi</a> </li>
+                                            <li> <a href="/petklinik-jp">Jakarta Pusat</a> </li>
+                                            <li> <a href="/petklinik-jt">Jakarta Timur</a> </li>
+                                            <li> <a href="/petklinik-jb">Jakarta Barat</a> </li>
+                                            <li> <a href="/petklinik-ju">Jakarta Utara</a> </li>
+                                            <li> <a href="/petklinik-js">Jakarta Selatan</a> </li>
+                                            <li> <a href="/petklinik-bk">Bekasi</a> </li>
                                         </ul>
                                     </li>
 
@@ -106,30 +99,18 @@
         <ul>
             <!-- SLIDE  -->
 
-            <li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on"
-                data-title="Intro Slide">
+            <li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="Intro Slide">
 
-                <img src="images/kittycare/cat-portrait.jpg" alt="" data-bgposition="center top" data-bgfit="cover"
-                    data-bgrepeat="no-repeat">
+                <img src="images/kittycare/cat-portrait.jpg" alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 
-                <div class="tp-caption grey_heavy_72 skewfromrightshort tp-resizeme rs-parallaxlevel-0" data-x="1035"
-                    data-y="250" data-speed="500" data-start="2250" data-easing="Power3.easeInOut" data-splitin="chars"
-                    data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1"
-                    style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Stray Cat
+                <div class="tp-caption grey_heavy_72 skewfromrightshort tp-resizeme rs-parallaxlevel-0" data-x="1035" data-y="250" data-speed="500" data-start="2250" data-easing="Power3.easeInOut" data-splitin="chars" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Stray Cat
                 </div>
 
-                <div class="tp-caption grey_heavy_72 skewfromrightshort tp-resizeme rs-parallaxlevel-0" data-x="730"
-                    data-y="320" data-speed="500" data-start="2250" data-easing="Power3.easeInOut" data-splitin="chars"
-                    data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1"
-                    style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Need Your Love
+                <div class="tp-caption grey_heavy_72 skewfromrightshort tp-resizeme rs-parallaxlevel-0" data-x="730" data-y="320" data-speed="500" data-start="2250" data-easing="Power3.easeInOut" data-splitin="chars" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Need Your Love
                     too
                 </div>
 
-                <div class="tp-caption grey_heavy_28 customin tp-resizeme rs-parallaxlevel-0" data-x="770" data-y="450"
-                    data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-                    data-speed="500" data-start="2600" data-easing="Power3.easeInOut" data-splitin="none"
-                    data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.1"
-                    style="z-index: 9; max-width: auto; max-height: auto; white-space: nowrap;">
+                <div class="tp-caption grey_heavy_28 customin tp-resizeme rs-parallaxlevel-0" data-x="770" data-y="450" data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="500" data-start="2600" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.1" style="z-index: 9; max-width: auto; max-height: auto; white-space: nowrap;">
                     <div style="text-align:right;">
                         <h6 style="color:white;">Layaknya manusia, kucing-kucing liar di jalanan pun
                             <br>
@@ -140,18 +121,11 @@
 
             </li>
 
-            <li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on"
-                data-title="Intro Slide">
+            <li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="Intro Slide">
 
-                <img src="images/kittycare/face-cat.jpg" alt="" data-bgposition="center top" data-bgfit="cover"
-                    data-bgrepeat="no-repeat">
+                <img src="images/kittycare/face-cat.jpg" alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 
-                <div class="tp-caption white_regular_36-light customin tp-resizeme rs-parallaxlevel-0" data-x="-100"
-                    data-y="300"
-                    data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-                    data-speed="500" data-start="2200" data-easing="Power3.easeInOut" data-splitin="none"
-                    data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.1"
-                    style="z-index: 9; max-width: auto; max-height: auto; white-space: nowrap;">
+                <div class="tp-caption white_regular_36-light customin tp-resizeme rs-parallaxlevel-0" data-x="-100" data-y="300" data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="500" data-start="2200" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.1" style="z-index: 9; max-width: auto; max-height: auto; white-space: nowrap;">
                     <div style="text-align:left;">
                         <h4 style="color:white;">Mereka hanya menginginkan<br>tatapan lembut penuh
                             kasih sayang,
@@ -162,35 +136,20 @@
                 </div>
             </li>
 
-            <li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on"
-                data-title="Intro Slide">
+            <li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="Intro Slide">
 
-                <img src="images/kittycare/slide1.jpg" alt="" data-bgposition="center top" data-bgfit="cover"
-                    data-bgrepeat="no-repeat">
+                <img src="images/kittycare/slide1.jpg" alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 
-                <div class="tp-caption grey_heavy_72 skewfromrightshort tp-resizeme rs-parallaxlevel-0" data-x="760"
-                    data-y="250" data-speed="500" data-start="2250" data-easing="Power3.easeInOut" data-splitin="chars"
-                    data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1"
-                    style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">I love every
+                <div class="tp-caption grey_heavy_72 skewfromrightshort tp-resizeme rs-parallaxlevel-0" data-x="760" data-y="250" data-speed="500" data-start="2250" data-easing="Power3.easeInOut" data-splitin="chars" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">I love every
                 </div>
 
-                <div class="tp-caption grey_heavy_72 skewfromrightshort tp-resizeme rs-parallaxlevel-0" data-x="760"
-                    data-y="320" data-speed="500" data-start="2250" data-easing="Power3.easeInOut" data-splitin="chars"
-                    data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1"
-                    style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">meowment when
+                <div class="tp-caption grey_heavy_72 skewfromrightshort tp-resizeme rs-parallaxlevel-0" data-x="760" data-y="320" data-speed="500" data-start="2250" data-easing="Power3.easeInOut" data-splitin="chars" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">meowment when
                 </div>
 
-                <div class="tp-caption grey_heavy_72 skewfromrightshort tp-resizeme rs-parallaxlevel-0" data-x="760"
-                    data-y="320" data-speed="500" data-start="2250" data-easing="Power3.easeInOut" data-splitin="chars"
-                    data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1"
-                    style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;"> it's spent with you.
+                <div class="tp-caption grey_heavy_72 skewfromrightshort tp-resizeme rs-parallaxlevel-0" data-x="760" data-y="320" data-speed="500" data-start="2250" data-easing="Power3.easeInOut" data-splitin="chars" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;"> it's spent with you.
                 </div>
 
-                <div class="tp-caption grey_heavy_28 customin tp-resizeme rs-parallaxlevel-0" data-x="1240" data-y="500"
-                    data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-                    data-speed="500" data-start="2600" data-easing="Power3.easeInOut" data-splitin="none"
-                    data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.1"
-                    style="z-index: 9; max-width: auto; max-height: auto; white-space: nowrap;">
+                <div class="tp-caption grey_heavy_28 customin tp-resizeme rs-parallaxlevel-0" data-x="1240" data-y="500" data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="500" data-start="2600" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.1" style="z-index: 9; max-width: auto; max-height: auto; white-space: nowrap;">
                     <div style="text-align:right;">
                         <h6 style="color:white;">-Baki</h6>
                     </div>
@@ -608,28 +567,32 @@
 
                             <div id="owl-demo" class="owl-carousel">
 
+
                                 <div class="post item">
-                                    <img class="lazyOwl" src="images/blog/artikel1-bg.jpg" alt="">
+                                    <img class="lazyOwl" src="images/blog/artikel3-bg.jpg" alt="">
                                     <div class="detail">
                                         <img src="images/news-dr1.jpg" alt="">
-                                        <h4><a href="news-detail.html">10
-                                                Sifat dan kepribadian kucing
-                                                menurut
-                                                warna bulunya</a></h4>
-                                        <p>Benarkah kucing oranye adalah
-                                            kucing yang nakal....</p>
-                                        <span><i class="icon-clock3"></i>
-                                            Nov 12</span>
+                                        <h4><a href="/artikel3">Fakta
+                                                Unik Kucing yang jarang
+                                                orang
+                                                ketahui</a></h4>
+                                        <p>Pernahkah kamu melihat seekor
+                                            kucing yang hanya menghabiskan
+                                            waktunya
+                                            untuk tidur seharian?</p>
+                                        <span><i class="icon-clock3"></i>Jan
+                                            22</span>
                                         <span class="comment"><a href="news-detail.html"><i class="icon-icons206"></i>
-                                                5
+                                                0
                                                 Comments</a></span>
                                     </div>
                                 </div>
+
                                 <div class="post item">
                                     <img class="lazyOwl" src="images/blog/artikel2-bg.jpg" alt="">
                                     <div class="detail">
                                         <img src="images/news-dr2.jpg" alt="">
-                                        <h4><a href="news-detail.html">Perilaku
+                                        <h4><a href="/artikel2">Perilaku
                                                 Unik Kucing</a></h4>
                                         <p>Mengapa kucing suka terobsesi
                                             dengan plastik atau kotak sempit
@@ -647,21 +610,19 @@
                                 </div>
 
                                 <div class="post item">
-                                    <img class="lazyOwl" src="images/blog/artikel3-bg.jpg" alt="">
+                                    <img class="lazyOwl" src="images/blog/artikel1-bg.jpg" alt="">
                                     <div class="detail">
                                         <img src="images/news-dr1.jpg" alt="">
-                                        <h4><a href="news-detail.html">Fakta
-                                                Unik Kucing yang jarang
-                                                orang
-                                                ketahui</a></h4>
-                                        <p>Pernahkah kamu melihat seekor
-                                            kucing yang hanya menghabiskan
-                                            waktunya
-                                            untuk tidur seharian?</p>
-                                        <span><i class="icon-clock3"></i>Jan
-                                            22</span>
+                                        <h4><a href="/artikel1">10
+                                                Sifat dan kepribadian kucing
+                                                menurut
+                                                warna bulunya</a></h4>
+                                        <p>Benarkah kucing oranye adalah
+                                            kucing yang nakal....</p>
+                                        <span><i class="icon-clock3"></i>
+                                            Nov 12</span>
                                         <span class="comment"><a href="news-detail.html"><i class="icon-icons206"></i>
-                                                0
+                                                5
                                                 Comments</a></span>
                                     </div>
                                 </div>

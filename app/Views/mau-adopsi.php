@@ -33,12 +33,7 @@
                             <li class="parent"><a href="/meows-up">Meows-up</a>
                             </li>
 
-                            <li class="parent"><a href="#.">Interme-ow</a>
-                                <ul class="submenu">
-                                    <li> <a href="/artikel-home">Artikel</a> </li>
-                                    <li> <a href="/tutorial">Tutorial</a> </li>
-                                    <li> <a href="/tipsntrik">Tips&trick</a> </li>
-                                </ul>
+                            <li class="parent"><a href="/interme-ow">Interme-ow</a>
                             </li>
 
                             <li><a href="/donasi">Donasi</a></li>
@@ -47,8 +42,7 @@
 
                                 <ul class="submenu">
 
-                                    <li class="parent"> <a href="#">Pet shop</a> <i
-                                            class="icon-chevron-small-right"></i>
+                                    <li class="parent"> <a href="#">Pet shop</a> <i class="icon-chevron-small-right"></i>
                                         <ul class="submenu">
                                             <li> <a href="/petshop-jp">Jakarta Pusat</a> </li>
                                             <li> <a href="/petshop-jt">Jakarta Timur</a> </li>
@@ -59,15 +53,14 @@
                                         </ul>
                                     </li>
 
-                                    <li class="parent"> <a href="#">Pet klinik</a> <i
-                                            class="icon-chevron-small-right"></i>
+                                    <li class="parent"> <a href="#">Pet klinik</a> <i class="icon-chevron-small-right"></i>
                                         <ul class="submenu">
-                                            <li> <a href="gallery-simple-two.html">Jakarta Pusat</a> </li>
-                                            <li> <a href="gallery-simple-three.html">Jakarta Timur</a> </li>
-                                            <li> <a href="gallery-simple-four.html">Jakarta Barat</a> </li>
-                                            <li> <a href="gallery-simple-four.html">Jakarta Utara</a> </li>
-                                            <li> <a href="gallery-simple-four.html">Jakarta Selatan</a> </li>
-                                            <li> <a href="gallery-simple-four.html">Bekasi</a> </li>
+                                            <li> <a href="/petklinik-jp">Jakarta Pusat</a> </li>
+                                            <li> <a href="/petklinik-jt">Jakarta Timur</a> </li>
+                                            <li> <a href="/petklinik-jb">Jakarta Barat</a> </li>
+                                            <li> <a href="/petklinik-ju">Jakarta Utara</a> </li>
+                                            <li> <a href="/petklinik-js">Jakarta Selatan</a> </li>
+                                            <li> <a href="/petklinik-bk">Bekasi</a> </li>
                                         </ul>
                                     </li>
 
@@ -144,8 +137,7 @@
                 <div class="main-gallery">
 
                     <div class="col-md-4">
-                        <a class="gallery-sec fancybox photo-icon" href="images/gallery/img1.jpg"
-                            data-fancybox-group="gallery">
+                        <a class="gallery-sec fancybox photo-icon" href="images/gallery/img1.jpg" data-fancybox-group="gallery">
                             <div class="image-hover img-layer-slide-left-right">
                                 <img src="images/gallery/img1.jpg" alt="">
                                 <div class="layer"> <i class="icon-image2"></i> </div>
@@ -191,8 +183,7 @@
 
 
                     <div class="col-md-4">
-                        <a class="gallery-sec fancybox photo-icon" href="images/gallery/img4.jpg"
-                            data-fancybox-group="gallery">
+                        <a class="gallery-sec fancybox photo-icon" href="images/gallery/img4.jpg" data-fancybox-group="gallery">
                             <div class="image-hover img-layer-slide-left-right">
                                 <img src="images/gallery/img4.jpg" alt="">
                                 <div class="layer"> <i class="icon-image2"></i> </div>
@@ -224,8 +215,7 @@
 
 
                     <div class="col-md-4">
-                        <a class="gallery-sec fancybox photo-icon" href="images/gallery/img6.jpg"
-                            data-fancybox-group="gallery">
+                        <a class="gallery-sec fancybox photo-icon" href="images/gallery/img6.jpg" data-fancybox-group="gallery">
                             <div class="image-hover img-layer-slide-left-right">
                                 <img src="images/gallery/img6.jpg" alt="">
                                 <div class="layer"> <i class="icon-image2"></i> </div>
@@ -241,8 +231,7 @@
 
 
                     <div class="col-md-4">
-                        <a class="gallery-sec fancybox photo-icon" href="images/gallery/img7.jpg"
-                            data-fancybox-group="gallery">
+                        <a class="gallery-sec fancybox photo-icon" href="images/gallery/img7.jpg" data-fancybox-group="gallery">
                             <div class="image-hover img-layer-slide-left-right">
                                 <img src="images/gallery/img7.jpg" alt="">
                                 <div class="layer"> <i class="icon-image2"></i> </div>

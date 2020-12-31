@@ -33,12 +33,7 @@
                             <li class="parent"><a href="/meows-up">Meows-up</a>
                             </li>
 
-                            <li class="parent"><a href="#.">Interme-ow</a>
-                                <ul class="submenu">
-                                    <li> <a href="/artikel-home">Artikel</a> </li>
-                                    <li> <a href="/tutorial">Tutorial</a> </li>
-                                    <li> <a href="/tipsntrik">Tips&trick</a> </li>
-                                </ul>
+                            <li class="parent"><a href="/interme-ow">Interme-ow</a>
                             </li>
 
                             <li class="parent"><a href="/donasi">Donasi</a></li>
@@ -47,8 +42,7 @@
 
                                 <ul class="submenu">
 
-                                    <li class="parent"> <a href="#">Pet shop</a> <i
-                                            class="icon-chevron-small-right"></i>
+                                    <li class="parent"> <a href="#">Pet shop</a> <i class="icon-chevron-small-right"></i>
                                         <ul class="submenu">
                                             <li> <a href="/petshop-jp">Jakarta Pusat</a> </li>
                                             <li> <a href="/petshop-jt">Jakarta Timur</a> </li>
@@ -59,15 +53,14 @@
                                         </ul>
                                     </li>
 
-                                    <li class="parent"> <a href="#">Pet klinik</a> <i
-                                            class="icon-chevron-small-right"></i>
+                                    <li class="parent"> <a href="#">Pet klinik</a> <i class="icon-chevron-small-right"></i>
                                         <ul class="submenu">
-                                            <li> <a href="gallery-simple-two.html">Jakarta Pusat</a> </li>
-                                            <li> <a href="gallery-simple-three.html">Jakarta Timur</a> </li>
-                                            <li> <a href="gallery-simple-four.html">Jakarta Barat</a> </li>
-                                            <li> <a href="gallery-simple-four.html">Jakarta Utara</a> </li>
-                                            <li> <a href="gallery-simple-four.html">Jakarta Selatan</a> </li>
-                                            <li> <a href="gallery-simple-four.html">Bekasi</a> </li>
+                                            <li> <a href="/petklinik-jp">Jakarta Pusat</a> </li>
+                                            <li> <a href="/petklinik-jt">Jakarta Timur</a> </li>
+                                            <li> <a href="/petklinik-jb">Jakarta Barat</a> </li>
+                                            <li> <a href="/petklinik-ju">Jakarta Utara</a> </li>
+                                            <li> <a href="/petklinik-js">Jakarta Selatan</a> </li>
+                                            <li> <a href="/petklinik-bk">Bekasi</a> </li>
                                         </ul>
                                     </li>
 
@@ -143,14 +136,11 @@
                         </div>
 
                         <div class="map">
-                            <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3151.8655244315096!2d144.9554158!3d-37.8166187!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d4c2b349649%3A0xb6899234e561db11!2sEnvato!5e0!3m2!1sen!2s!4v1437236216432"
-                                width="100%" height="460px" frameborder="0" style="border:0" allowfullscreen></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3151.8655244315096!2d144.9554158!3d-37.8166187!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d4c2b349649%3A0xb6899234e561db11!2sEnvato!5e0!3m2!1sen!2s!4v1437236216432" width="100%" height="460px" frameborder="0" style="border:0" allowfullscreen></iframe>
                             <div class="get-directions">
                                 <form action="http://maps.google.com/maps" method="get" target="_blank">
                                     <input type="text" name="saddr" placeholder="Enter Your Address" />
-                                    <input type="hidden" name="daddr"
-                                        value="Envato Pty Ltd, Elizabeth Street, Melbourne, Victoria, Australia" />
+                                    <input type="hidden" name="daddr" value="Envato Pty Ltd, Elizabeth Street, Melbourne, Victoria, Australia" />
                                     <input type="submit" value="Get directions" class="direction-btn" />
                                 </form>
                             </div>
@@ -176,14 +166,11 @@
                             </div>
 
                             <div class="map">
-                                <iframe
-                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6305.606734438974!2d-122.39947661499052!3d37.79464769631387!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085808aa44da05d%3A0x7bd6bdbc78216027!2sBrook+Furniture+Rental+-+San+Francisco%2C+CA!5e0!3m2!1sen!2s!4v1437244029146"
-                                    width="100%" height="460" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6305.606734438974!2d-122.39947661499052!3d37.79464769631387!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085808aa44da05d%3A0x7bd6bdbc78216027!2sBrook+Furniture+Rental+-+San+Francisco%2C+CA!5e0!3m2!1sen!2s!4v1437244029146" width="100%" height="460" frameborder="0" style="border:0" allowfullscreen></iframe>
                                 <div class="get-directions">
                                     <form action="http://maps.google.com/maps" method="get" target="_blank">
                                         <input type="text" name="saddr" placeholder="Enter Your Address" />
-                                        <input type="hidden" name="daddr"
-                                            value="500 Washington St #100, San Francisco, CA 94111, United States" />
+                                        <input type="hidden" name="daddr" value="500 Washington St #100, San Francisco, CA 94111, United States" />
                                         <input type="submit" value="Get directions" class="direction-btn" />
                                     </form>
                                 </div>

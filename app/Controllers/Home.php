@@ -14,9 +14,9 @@ class Home extends BaseController
 		return view('meows-up');
 	}
 
-	public function artikelhome()
+	public function artikel1()
 	{
-		return view('artikel-home');
+		return view('artikel1');
 	}
 
 	public function tutorial()

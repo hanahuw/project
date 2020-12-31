@@ -2,6 +2,94 @@
 
 <?= $this->section('content'); ?>
 
+<!--Start Navbar-->
+
+<div id="header-2">
+
+    <header class="header header2">
+        <div class="container">
+
+
+            <div class="row">
+
+                <div class="col-md-3">
+                    <a href="/" class="logo"><img src="images/kittycare/home5.png"></a>
+
+                </div>
+
+
+                <div class="col-md-9">
+
+
+                    <nav class="menu-2">
+                        <ul class="nav wtf-menu">
+                            <li><a href="#.">Adopsi</a>
+                                <ul class="submenu">
+                                    <li> <a href="/mau-adopsi">Mau Adopsi</a> </li>
+                                    <li> <a href="index2.html">Cari pengadopsi</a> </li>
+                                </ul>
+                            </li>
+
+                            <li class="parent"><a href="/meows-up">Meows-up</a>
+                            </li>
+
+                            <li class="item-select parent"><a href="/interme-ow">Interme-ow</a>
+                            </li>
+
+                            <li><a href="/donasi">Donasi</a></li>
+
+                            <li class="parent"><a href="#.">Petcare</a>
+
+                                <ul class="submenu">
+
+                                    <li class="parent"> <a href="#">Pet shop</a> <i class="icon-chevron-small-right"></i>
+                                        <ul class="submenu">
+                                            <li> <a href="/petshop-jp">Jakarta Pusat</a> </li>
+                                            <li> <a href="/petshop-jt">Jakarta Timur</a> </li>
+                                            <li> <a href="/petshop-jb">Jakarta Barat</a> </li>
+                                            <li> <a href="/petshop-ju">Jakarta Utara</a> </li>
+                                            <li> <a href="/petshop-js">Jakarta Selatan</a> </li>
+                                            <li> <a href="/petshop-bk">Bekasi</a> </li>
+                                        </ul>
+                                    </li>
+
+                                    <li class="parent"> <a href="#">Pet klinik</a> <i class="icon-chevron-small-right"></i>
+                                        <ul class="submenu">
+                                            <li> <a href="/petklinik-jp">Jakarta Pusat</a> </li>
+                                            <li> <a href="/petklinik-jt">Jakarta Timur</a> </li>
+                                            <li> <a href="/petklinik-jb">Jakarta Barat</a> </li>
+                                            <li> <a href="/petklinik-ju">Jakarta Utara</a> </li>
+                                            <li> <a href="/petklinik-js">Jakarta Selatan</a> </li>
+                                            <li> <a href="/petklinik-bk">Bekasi</a> </li>
+                                        </ul>
+                                    </li>
+
+                                </ul>
+
+                            </li>
+
+                            <li class="parent"><a href="#."><i class="icon-user"></i></a>
+                                <ul class="submenu">
+                                    <li> <a href="index.html">Profile</a> </li>
+                                    <li> <a href="index2.html">Pengaturan</a> </li>
+                                    <li> <a href="index2.html">Keluar</a> </li>
+                                </ul>
+                            </li>
+
+                        </ul>
+                    </nav>
+
+                </div>
+
+            </div>
+
+
+        </div>
+    </header>
+</div>
+
+<!--End Navbar-->
+
 <!--Start Banner-->
 
 <div class="sub-banner">
@@ -110,7 +198,7 @@
                                 </div>
                                 <br>
                                 <div class="detail">
-                                    <h6>PENYAKIT KULIT KUCING RING WORM</h6>
+                                    <h4>PENYAKIT KULIT KUCING RING WORM</h4>
                                     <p>Ringworm adalah jenis lain dari jamur yang menyerang kucing, terutama anak kucing di bawah satu tahun.</p>
                                 </div>
 
@@ -127,7 +215,7 @@
                                 </div>
                                 <br>
                                 <div class="detail">
-                                    <h6>KULIT KERING, KETOMBE PADA KUCING</h6>
+                                    <h4>KULIT KERING, KETOMBE PADA KUCING</h4>
                                     <p>Seperti manusia, kulit kucing juga dapat kering, dan terkelupas. Ini biasanya tidak ada yang serius, tetapi tidak ada salahnya teman-teman konsultasikan dengan dokter hewan.</p>
                                 </div>
 
@@ -144,7 +232,7 @@
                                 </div>
                                 <br>
                                 <div class="detail">
-                                    <h6>INFEKSI JAMUR (YEAST) PADA KUCING PERSIA</h6>
+                                    <h4>INFEKSI JAMUR (YEAST) PADA KUCING PERSIA</h4>
                                     <p>Infeksi jamur yang disebabkan oleh jamur. Banyak terjadi pada kucing yang memiliki masalah medis lainnya.</p>
                                 </div>
 
@@ -162,7 +250,7 @@
                                 </div>
                                 <br>
                                 <div class="detail">
-                                    <h6>PENYAKIT KULIT JERAWAT KUCING</h6>
+                                    <h4>PENYAKIT KULIT JERAWAT KUCING</h4>
                                     <p>Jerawat biasanya muncul di dan di sekitar dagu kucing.
                                         Kemungkinan penyebab termasuk stres, jarang dibersihkan, reaksi terhadap obat, atau masalah kulit.</p>
                                 </div>
@@ -181,7 +269,7 @@
                                 </div>
                                 <br>
                                 <div class="detail">
-                                    <h6>PENYAKIT KUCING EOSINOPHILIC GRANULOMA</h6>
+                                    <h4>PENYAKIT KUCING EOSINOPHILIC GRANULOMA</h4>
                                     <p>Ini jika kucing persia teman-teman memiliki borok atau luka pada hidung atau bibir,
                                         ia mungkin akan mengalami jenis reaksi alergi yang dikenal sebagai granuloma eosinofilik.</p>
                                 </div>
@@ -200,7 +288,7 @@
                                 </div>
                                 <br>
                                 <div class="detail">
-                                    <h6>PENYAKIT KULIT KUCING ALERGIC DERMATITIS</h6>
+                                    <h4>PENYAKIT KULIT KUCING ALERGIC DERMATITIS</h4>
                                     <p>Kucing dapat memiliki reaksi alergi terhadap produk perawatan, makanan, dan gangguan lingkungan,
                                         seperti serbuk sari atau gigitan kutu.</p>
                                 </div>
@@ -219,7 +307,7 @@
                                 </div>
                                 <br>
                                 <div class="detail">
-                                    <h6>PENYAKIT KULIT KUCING STUD TAIL</h6>
+                                    <h4>PENYAKIT KULIT KUCING STUD TAIL</h4>
                                     <p>Ini juga disebut hiperplasia kelenjar pada buntut, ekor kucing persia pejantan akan mengeluarkan kelenjar minyak yang aktif di bagian atas ekor.</p>
                                 </div>
                             </div>
@@ -236,7 +324,7 @@
                                 </div>
                                 <br>
                                 <div class="detail">
-                                    <h6>PENYAKIT KULIT RAMBUT RONTOK PADA KUCING</h6>
+                                    <h4>PENYAKIT KULIT RAMBUT RONTOK PADA KUCING</h4>
                                     <p>Ini terjadi jika catlovers sekalian melihat kucing teman-teman kehilangan rambut lebih dari biasanya atau
                                         mendapati bagian yang botak, kemungkinan terjadi penyakit kulit pada kucingmu.</p>
                                 </div>
@@ -253,7 +341,7 @@
                                 </div>
                                 <br>
                                 <div class="detail">
-                                    <h6>PENYAKIT KULIT INFEKSI BAKTERI KUCING</h6>
+                                    <h4>PENYAKIT KULIT INFEKSI BAKTERI KUCING</h4>
                                     <p>Adalah dalam banyak kasus, infeksi kulit bakteri berkembang sebagai akibat dari masalah kulit lainnya.</p>
                                 </div>
                             </div>
@@ -269,7 +357,7 @@
                                 </div>
                                 <br>
                                 <div class="detail">
-                                    <h6>PENYAKIT KULIT SCABIES KUCING</h6>
+                                    <h4>PENYAKIT KULIT SCABIES KUCING</h4>
                                     <p>Yang dimaksud dengan Scabies kucing adalah yaitu penyakit kulit biasa yang disebabkan oleh
                                         tungau pada kepala Notoedres cati.</p>
                                 </div>
@@ -286,7 +374,7 @@
                                 </div>
                                 <br>
                                 <div class="detail">
-                                    <h6>PENYAKIT KULIT KUTU LICE</h6>
+                                    <h4>PENYAKIT KULIT KUTU LICE</h4>
                                     <p>Penyakit kulit ini adalah Kutu Lice adalah parasit yang membuat kulit kering.
                                         Mereka biasanya ditemukan pada kucing persia tua atau sakit dan sering pergi tanpa diketahui.</p>
                                 </div>
@@ -303,7 +391,7 @@
                                 </div>
                                 <br>
                                 <div class="detail">
-                                    <h6>PENYAKIT KULIT KUTU KUCING</h6>
+                                    <h4>PENYAKIT KULIT KUTU KUCING</h4>
                                     <p>Kutu/ Pinjal adalah masalah yang sangat umum ditemui pada kucing persia atau anggora kesayangan teman-teman sekalian,</p>
                                 </div>
 

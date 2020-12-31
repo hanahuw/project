@@ -33,12 +33,7 @@
                             <li class="parent"><a href="/meows-up">Meows-up</a>
                             </li>
 
-                            <li class="parent"><a href="#.">Interme-ow</a>
-                                <ul class="submenu">
-                                    <li> <a href="/artikel-home">Artikel</a> </li>
-                                    <li> <a href="/tutorial">Tutorial</a> </li>
-                                    <li> <a href="/tipsntrik">Tips&trick</a> </li>
-                                </ul>
+                            <li class="parent"><a href="/interme-ow">Interme-ow</a>
                             </li>
 
                             <li class="item-select parent"><a href="/donasi">Donasi</a></li>
@@ -47,8 +42,7 @@
 
                                 <ul class="submenu">
 
-                                    <li class="parent"> <a href="#">Pet shop</a> <i
-                                            class="icon-chevron-small-right"></i>
+                                    <li class="parent"> <a href="#">Pet shop</a> <i class="icon-chevron-small-right"></i>
                                         <ul class="submenu">
                                             <li> <a href="/petshop-jp">Jakarta Pusat</a> </li>
                                             <li> <a href="/petshop-jt">Jakarta Timur</a> </li>
@@ -59,15 +53,14 @@
                                         </ul>
                                     </li>
 
-                                    <li class="parent"> <a href="#">Pet klinik</a> <i
-                                            class="icon-chevron-small-right"></i>
+                                    <li class="parent"> <a href="#">Pet klinik</a> <i class="icon-chevron-small-right"></i>
                                         <ul class="submenu">
-                                            <li> <a href="gallery-simple-two.html">Jakarta Pusat</a> </li>
-                                            <li> <a href="gallery-simple-three.html">Jakarta Timur</a> </li>
-                                            <li> <a href="gallery-simple-four.html">Jakarta Barat</a> </li>
-                                            <li> <a href="gallery-simple-four.html">Jakarta Utara</a> </li>
-                                            <li> <a href="gallery-simple-four.html">Jakarta Selatan</a> </li>
-                                            <li> <a href="gallery-simple-four.html">Bekasi</a> </li>
+                                            <li> <a href="/petklinik-jp">Jakarta Pusat</a> </li>
+                                            <li> <a href="/petklinik-jt">Jakarta Timur</a> </li>
+                                            <li> <a href="/petklinik-jb">Jakarta Barat</a> </li>
+                                            <li> <a href="/petklinik-ju">Jakarta Utara</a> </li>
+                                            <li> <a href="/petklinik-js">Jakarta Selatan</a> </li>
+                                            <li> <a href="/petklinik-bk">Bekasi</a> </li>
                                         </ul>
                                     </li>
 
@@ -103,7 +96,7 @@
 
 <div class="sub-banner">
 
-    <img class="banner-img" src="images/gallery/banner2.jpg" alt="">
+    <img class="banner-img" src="images/kittycare/donasi.jpg" alt="">
     <div class="detail">
         <div class="container">
             <div class="row">
@@ -160,11 +153,9 @@
                                 <p class="error" id="error" style="display:none;"></p>
                                 <p class="success" id="success" style="display:none;"></p>
 
-                                <form name="appointment_form" id="appointment_form" method="post" action="#"
-                                    onSubmit="return false">
+                                <form name="appointment_form" id="appointment_form" method="post" action="#" onSubmit="return false">
                                     <span class="input input--kohana">
-                                        <input class="input__field input__field--kohana" type="text" id="input-29"
-                                            name="input-29" />
+                                        <input class="input__field input__field--kohana" type="text" id="input-29" name="input-29" />
                                         <label class="input__label input__label--kohana" for="input-29">
                                             <i class="icon-user6 icon icon--kohana"></i>
                                             <span class="input__label-content input__label-content--kohana">Your
@@ -172,8 +163,7 @@
                                         </label>
                                     </span>
                                     <span class="input input--kohana">
-                                        <input class="input__field input__field--kohana" type="text" id="input-30"
-                                            name="input-30" />
+                                        <input class="input__field input__field--kohana" type="text" id="input-30" name="input-30" />
                                         <label class="input__label input__label--kohana" for="input-30">
                                             <i class="icon-dollar icon icon--kohana"></i>
                                             <span class="input__label-content input__label-content--kohana">Email
@@ -181,8 +171,7 @@
                                         </label>
                                     </span>
                                     <span class="input input--kohana last">
-                                        <input class="input__field input__field--kohana" type="text" id="input-31"
-                                            name="input-31" />
+                                        <input class="input__field input__field--kohana" type="text" id="input-31" name="input-31" />
                                         <label class="input__label input__label--kohana" for="input-31">
                                             <i class="icon-phone5 icon icon--kohana"></i>
                                             <span class="input__label-content input__label-content--kohana">Phone
@@ -191,24 +180,19 @@
                                     </span>
 
                                     <span class="input input--kohana">
-                                        <input class="input__field input__field--kohana" type="text" id="datepicker"
-                                            placeholder="Appointment Date" onClick="removeChecks();"
-                                            name="datepicker" />
+                                        <input class="input__field input__field--kohana" type="text" id="datepicker" placeholder="Appointment Date" onClick="removeChecks();" name="datepicker" />
                                     </span>
 
                                     <span class="input input--kohana message">
-                                        <textarea class="input__field input__field--kohana" id="textarea"
-                                            name="textarea"></textarea>
+                                        <textarea class="input__field input__field--kohana" id="textarea" name="textarea"></textarea>
 
                                         <label class="input__label input__label--kohana" for="textarea">
                                             <i class="icon-new-message icon icon--kohana"></i>
-                                            <span
-                                                class="input__label-content input__label-content--kohana">Message</span>
+                                            <span class="input__label-content input__label-content--kohana">Message</span>
                                         </label>
                                     </span>
 
-                                    <input name="submit_appointment" type="submit" value="send"
-                                        onClick="validateAppointment();">
+                                    <input name="submit_appointment" type="submit" value="send" onClick="validateAppointment();">
 
 
                                 </form>

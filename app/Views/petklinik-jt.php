@@ -2,6 +2,94 @@
 
 <?= $this->section('content'); ?>
 
+<!--Start Navbar-->
+
+<div id="header-2">
+
+    <header class="header header2">
+        <div class="container">
+
+
+            <div class="row">
+
+                <div class="col-md-3">
+                    <a href="/" class="logo"><img src="images/kittycare/home5.png"></a>
+
+                </div>
+
+
+                <div class="col-md-9">
+
+
+                    <nav class="menu-2">
+                        <ul class="nav wtf-menu">
+                            <li><a href="#.">Adopsi</a>
+                                <ul class="submenu">
+                                    <li> <a href="/mau-adopsi">Mau Adopsi</a> </li>
+                                    <li> <a href="index2.html">Cari pengadopsi</a> </li>
+                                </ul>
+                            </li>
+
+                            <li class="parent"><a href="/meows-up">Meows-up</a>
+                            </li>
+
+                            <li class="parent"><a href="/interme-ow">Interme-ow</a>
+                            </li>
+
+                            <li class="parent"><a href="/donasi">Donasi</a></li>
+
+                            <li class="item-select parent"><a href="#.">Petcare</a>
+
+                                <ul class="submenu">
+
+                                    <li class="parent"> <a href="#">Pet shop</a> <i class="icon-chevron-small-right"></i>
+                                        <ul class="submenu">
+                                            <li> <a href="/petshop-jp">Jakarta Pusat</a> </li>
+                                            <li> <a href="/petshop-jt">Jakarta Timur</a> </li>
+                                            <li> <a href="/petshop-jb">Jakarta Barat</a> </li>
+                                            <li> <a href="/petshop-ju">Jakarta Utara</a> </li>
+                                            <li> <a href="/petshop-js">Jakarta Selatan</a> </li>
+                                            <li> <a href="/petshop-bk">Bekasi</a> </li>
+                                        </ul>
+                                    </li>
+
+                                    <li class="parent"> <a href="#">Pet klinik</a> <i class="icon-chevron-small-right"></i>
+                                        <ul class="submenu">
+                                            <li> <a href="/petklinik-jp">Jakarta Pusat</a> </li>
+                                            <li class="select-menu"> <a href="/petklinik-jt">Jakarta Timur</a> </li>
+                                            <li> <a href="/petklinik-jb">Jakarta Barat</a> </li>
+                                            <li> <a href="/petklinik-ju">Jakarta Utara</a> </li>
+                                            <li> <a href="/petklinik-js">Jakarta Selatan</a> </li>
+                                            <li> <a href="/petklinik-bk">Bekasi</a> </li>
+                                        </ul>
+                                    </li>
+
+                                </ul>
+
+                            </li>
+
+                            <li class="parent"><a href="#."><i class="icon-user"></i></a>
+                                <ul class="submenu">
+                                    <li> <a href="index.html">Profile</a> </li>
+                                    <li> <a href="index2.html">Pengaturan</a> </li>
+                                    <li> <a href="index2.html">Keluar</a> </li>
+                                </ul>
+                            </li>
+
+                        </ul>
+                    </nav>
+
+                </div>
+
+            </div>
+
+
+        </div>
+    </header>
+</div>
+
+<!--End Navbar-->
+<br>
 <!--Start Banner-->
 
 <div class="sub-banner">
@@ -11,15 +99,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-
-                    <div class="paging">
-                        <h2>Meows Update</h2>
-                        <ul>
-                            <li><a href="/">Home</a></li>
-                            <li><a href="/meows-up">Meows-up</a></li>
-                        </ul>
-                    </div>
-
+                    <h2>Pet Shop di Jakarta Barat</h2>
                 </div>
             </div>
         </div>
@@ -44,7 +124,8 @@
 
                         <div class="main-title">
                             <h2><span>San</span> Francisco</h2>
-                            <p>cursus lorem molestie vitae. Nulla vehicula, lacus ut suscipit fermentum, turpis felis ultricies dui, ut rhoncus libero augue at liberolacus ut suscipit fermentum turpis. </p>
+                            <p>cursus lorem molestie vitae. Nulla vehicula, lacus ut suscipit fermentum, turpis felis
+                                ultricies dui, ut rhoncus libero augue at liberolacus ut suscipit fermentum turpis. </p>
                         </div>
 
                         <div class="map">
@@ -72,7 +153,9 @@
 
                             <div class="main-title">
                                 <h2><span>Cape</span> Twon</h2>
-                                <p>cursus lorem molestie vitae. Nulla vehicula, lacus ut suscipit fermentum, turpis felis ultricies dui, ut rhoncus libero augue at liberolacus ut suscipit fermentum turpis. </p>
+                                <p>cursus lorem molestie vitae. Nulla vehicula, lacus ut suscipit fermentum, turpis
+                                    felis ultricies dui, ut rhoncus libero augue at liberolacus ut suscipit fermentum
+                                    turpis. </p>
                             </div>
 
                             <div class="map">
