@@ -6,177 +6,177 @@ class Home extends BaseController
 {
 	public function index()
 	{
-		return view('home');
+		return view('Home/index');
 	}
 
 	public function meowsup()
 	{
-		return view('meows-up');
+		return view('Meows-up/index');
 	}
 
 	public function artikel1()
 	{
-		return view('artikel1');
+		return view('Interme-ow/Artikel/artikel1');
 	}
 
 	public function tutorial()
 	{
-		return view('tutorial');
+		return view('Interme-ow/Tutorial/tutorial1');
 	}
 
 	public function tipsntrik()
 	{
-		return view('tipsntrik');
+		return view('Interme-ow/Tips&trik/tipsntrik');
 	}
 
 	public function donasi()
 	{
-		return view('donasi');
+		return view('Donasi/donasi');
 	}
 
 	public function petshopjp()
 	{
-		return view('petshop-jp');
+		return view('Petcare/Petshop/petshop-jp');
 	}
 
 	public function petshopjt()
 	{
-		return view('petshop-jt');
+		return view('Petcare/Petshop/petshop-jt');
 	}
 
 	public function petshopjb()
 	{
-		return view('petshop-jb');
+		return view('Petcare/Petshop/petshop-jb');
 	}
 
 	public function petshopju()
 	{
-		return view('petshop-ju');
+		return view('Petcare/Petshop/petshop-ju');
 	}
 
 	public function petshopjs()
 	{
-		return view('petshop-js');
+		return view('Petcare/Petshop/petshop-js');
 	}
 
 	public function petshopbk()
 	{
-		return view('petshop-bk');
+		return view('Petcare/Petshop/petshop-bk');
 	}
 
 	public function mauadopsi()
 	{
-		return view('mau-adopsi');
+		return view('Adopsi/mau-adopsi');
 	}
 
 	public function petklinikjp()
 	{
-		return view('petklinik-jp');
+		return view('Petcare/Petklinik/petklinik-jp');
 	}
 
 	public function petklinikjt()
 	{
-		return view('petklinik-jt');
+		return view('Petcare/Petklinik/petklinik-jt');
 	}
 
 	public function petklinikjb()
 	{
-		return view('petklinik-jb');
+		return view('Petcare/Petklinik/petklinik-jb');
 	}
 
 	public function petklinikju()
 	{
-		return view('petklinik-ju');
+		return view('Petcare/Petklinik/petklinik-ju');
 	}
 
 	public function petklinikjs()
 	{
-		return view('petklinik-js');
+		return view('Petcare/Petklinik/petklinik-js');
 	}
 
 	public function petklinikbk()
 	{
-		return view('petklinik-bk');
+		return view('Petcare/Petklinik/petklinik-bk');
 	}
 
 	public function intermeow()
 	{
-		return view('interme-ow');
+		return view('Interme-ow/index');
 	}
 
 	public function artikel2()
 	{
-		return view('artikel2');
+		return view('Interme-ow/Artikel/artikel2');
 	}
 
 	public function artikel3()
 	{
-		return view('artikel3');
+		return view('Interme-ow/Artikel/artikel3');
 	}
 
 	public function tutorial1()
 	{
-		return view('tutorial1');
+		return view('Interme-ow/Tutorial/tutorial1');
 	}
 
 	public function penyakittutor1()
 	{
-		return view('penyakit-tutor1');
+		return view('Interme-ow/Tutorial/penyakit-tutor1');
 	}
 
 	public function penyakit2tutor1()
 	{
-		return view('penyakit2-tutor1');
+		return view('Interme-ow/Tutorial/penyakit2-tutor1');
 	}
 
 	public function penyakit3tutor1()
 	{
-		return view('penyakit3-tutor1');
+		return view('Interme-ow/Tutorial/penyakit3-tutor1');
 	}
 
 	public function penyakit4tutor1()
 	{
-		return view('penyakit4-tutor1');
+		return view('Interme-ow/Tutorial/penyakit4-tutor1');
 	}
 
 	public function penyakit5tutor1()
 	{
-		return view('penyakit5-tutor1');
+		return view('Interme-ow/Tutorial/penyakit5-tutor1');
 	}
 
 	public function penyakit6tutor1()
 	{
-		return view('penyakit6-tutor1');
+		return view('Interme-ow/Tutorial/penyakit6-tutor1');
 	}
 
 	public function penyakit7tutor1()
 	{
-		return view('penyakit7-tutor1');
+		return view('Interme-ow/Tutorial/penyakit7-tutor1');
 	}
 
 	public function penyakit8tutor1()
 	{
-		return view('penyakit8-tutor1');
+		return view('Interme-ow/Tutorial/penyakit8-tutor1');
 	}
 
 	public function penyakit9tutor1()
 	{
-		return view('penyakit9-tutor1');
+		return view('Interme-ow/Tutorial/penyakit9-tutor1');
 	}
 
 	public function penyakit10tutor1()
 	{
-		return view('penyakit10-tutor1');
+		return view('Interme-ow/Tutorial/penyakit10-tutor1');
 	}
 
 	public function penyakit11tutor1()
 	{
-		return view('penyakit11-tutor1');
+		return view('Interme-ow/Tutorial/penyakit11-tutor1');
 	}
 
 	public function penyakit12tutor1()
 	{
-		return view('penyakit12-tutor1');
+		return view('Interme-ow/Tutorial/penyakit12-tutor1');
 	}
 
 	//--------------------------------------------------------------------
