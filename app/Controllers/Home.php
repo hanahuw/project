@@ -114,6 +114,16 @@ class Home extends BaseController
 		return view('Interme-ow/Artikel/artikel3');
 	}
 
+	public function artikel4()
+	{
+		return view('Interme-ow/Artikel/artikel4');
+	}
+
+	public function artikel5()
+	{
+		return view('Interme-ow/Artikel/artikel5');
+	}
+
 	public function tutorial1()
 	{
 		return view('Interme-ow/Tutorial/tutorial1');
@@ -178,6 +188,7 @@ class Home extends BaseController
 	{
 		return view('Interme-ow/Tutorial/penyakit12-tutor1');
 	}
+
 
 	//--------------------------------------------------------------------
 

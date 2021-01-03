@@ -97,7 +97,7 @@
 
 <div class="sub-banner">
 
-    <img class="banner-img" src="images/artikel4/artikel4-bn.jpg" alt="">
+    <img class="banner-img" src="images/artikel5/artikel5-bn.jpg" alt="">
     <div class="detail">
         <div class="container">
             <div class="row">
@@ -109,7 +109,7 @@
                             <li><a href="/">Home</a></li>
                             <li><a href="/interme-ow">Interme-ow</a></li>
                             <li><a>Artikel</a></li>
-                            <li><a>Neko Cat Cafe</a></li>
+                            <li><a>Kucing Selfie</a></li>
                         </ul>
                     </div>
 
@@ -131,55 +131,51 @@
                 <div class="col-md-12">
 
                     <div class="post-sec">
-                        <a class="title"><b>Berkunjung ke Cat Cafe Terbesar dan Tercantik di Indonesia, Neko Cat Cafe</b></a>
+                        <a class="title"><b>Kucing Manny Doyan Selfie</b></a>
                         <br><br>
                         <figure class="img-center">
-                            <img src="images/artikel4/artikel4-2.jpg" class="rounded" alt="...">
+                            <img src="images/artikel5/artikel5-1.jpg" class="rounded" alt="...">
                         </figure>
-                        <p>Hayo siapa disini yang merupakan penggemar kucing? Atau mungkin memiliki kucing peliharaan di rumahnya?<br>
-                            Nah pilihan objek wisata kali ini sangat cocok bagi para pecinta kucing sekaligus pecinta kuliner, yaitu Neko Cat Cafe yang diklaim sebagai Cat Cafe terbesar, terlengkap bahkan dengan arsitektur tercantik di Indonesia.<br><br>
+                        <p>Selfie. Satu kata yang merujuk pada era digital. Di zaman modern seperti sekarang ini tidak ada yang tidak mengenal istilah selfie.
+                            <br>
+                            Fenomena selfie ini lahir atas majunya perkembangan teknologi yang semakin pesat. Saat masih berada di generasi tradisionalis ataupun generasi baby boomers, saya rasa kata selfie masih sangat jarang bergema di kalangan remaja pada saat itu.<br>
+                        </p>
+                        <p>
+                            Selfie menjadi istilah yang tidak asing lagi semenjak kamera depan handphone hadir sebagai pelengkap di dalam hidup ini.
+                            <br>
+                            Coba kembali ke cerita di masa lalu, saat masih berada di generasi tradisionalis ataupun generasi baby boomers, untuk mengambil gambar tentunya harus menggunakan kamera, dan itupun tidak semua orang bisa melakukannya.
+                            <br>
+                            Tidak seperti sekarang ini. Bermodalkan handphone yang berada di genggaman tangan saja, sudah bisa dipastikan selfie di berbagai tempat akan tercipta.<br> <br>
                         </p>
                         <figure class="img-center">
-                            <img src="images/artikel4/artikel4-1.jpg" class="rounded" alt="...">
+                            <img src="images/artikel5/artikel5-6.jpg" class="rounded" alt="...">
                         </figure>
                         <br>
                         <p>
-                            Lokasi Cat Cafe ini berada dalam kawasan objek wisata keluarga Lembang Park and Zoo di daerah Lembang yang baru dibuka awal tahun ini. Jadi jika ingin berkunjung ke cat cafe ini kita harus membeli tiket masuk ke Lembang Park and Zoo di kisaran dibawah 50 ribu rupiah/pengunjung.<br><br>
-
-                            Lokasi Neko Cat Cafe sendiri tidak jauh dari pintu masuk Lembang Park and Zoo. Posisinya adalah beberapa ratus meter saja dari pintu masuk menuju ke arah kolam buatan lalu ke arah kanan. Setelah itu kita akan melihat sebuah restoran dan bangunan yang memiliki kincir angin, nah disana kita akan melihat petunjuk Neko Cat Cafe. Kita diharuskan sedikit menaiki beberapa anak tangga karena posisi caf yang ada di rooftop restoran utama Lembang Park and Zoo.<br><br>
-
-                            Tidak seperti cat cafe pada umumnya, dimana kita bisa makan bersama kucing yang berlalu lalang dan bisa langsung bercengkerama bersama kita selagi makan.<br> <br>
+                            Namun pernahkah kalian melihat seekor kucing kecil menjadi raja selfie di antara teman-teman berbulunya. Memang terdengar sedikit tidak masuk akal. Sejak kapan seekor kucing kecil mampu memahami kegunaan dari kamera. <br><br>
                         </p>
                         <figure class="img-center">
-                            <img src="images/artikel4/artikel4-3.jpg" class="rounded" alt="...">
+                            <img src="images/artikel5/artikel5-7.jpg" class="rounded" alt="...">
                         </figure>
                         <br>
                         <p>
-                            Neko Cat Cafe ini cukup unik, karena tempat makannya terpisah dan berada di depan dari gedung utama tempat area kucing-kucing. Jadi bagi yang merasa lapar disilahkan untuk menikmati makanan dan minuman terlebih dahulu di tempat penjualan di depan gedung kucing-kucingnya berada atau mungkin bisa melakukannya setelah masuk ke dalam area utama.<br><br>
+                            Semua ini terjadi sejak kucing kecil Manny bertemu dengan GoPro, yang merupakan salah satu perangkat action camera yang sangat ngetop pada masa kini. GoPro-lah teman terbaik Manny saat dirinya mengabadikan foto selfie.<br><br>
+                            Jauh sebelum bertemu dengan Yorem Ahm. Cerita hidup Manny begitu panjang. Manny merupakan kucing liar yang diselamatkan dari Arizona Utara, Amerika Serikat. Di negara bagian Amerika inilah terdapat hutan-hutan pinus, dan pohon-pohon cemara.<br>
                         </p>
-                        <figure class="img-center">
-                            <img src="images/artikel4/artikel-4.jpg" class="rounded" alt="...">
-                        </figure>
-                        <br>
-                        <p>
-                            Untuk memasuki gedung utama Neko Cat Caf kita diharuskan membayar tiket 50rb per orang untuk 1 jam kunjungan. Cukup terjangkau dan sepadan dengan kegembiraan yang akan kita dapatkan.<br><br>
-
-                            Setelah melakukan pembayaran kita diminta untuk melepas alas kaki kita diganti dengan sandal khusus yang disediakan oleh pengelolanya. Tujuannya adalah agar kita tidak membawa kotoran dan mengotori lantai tempat kucing-kucing berlalu lalang. Selain itu juga kita diminta untuk menggunakan hand sanitizer sebagai pencegahan agar kita tidak membawa mikro organisme yang bisa membahayakan kucing-kucing penghuni Neko Cat Caf.<br>
-                        </p>
-                        <p>Sumber artikel: <a href="https://terbaiknews.net/lifestyle/travel/berkunjung-ke-cat-cafe-terbesar-dan-tercantik-di-indonesia-neko-cat-cafe-4469346.html">Terbaik News</a>
+                        <p>Sumber artikel: <a href="https://www.idntimes.com/hype/viral/rivandi-pranandita-putra/15-potret-menggemaskan-manny-the-cat-kucing-yang-jago-selfie-c1c2/15">IDN Times</a>
                         </p>
                         <br>
                         <ul>
-                            <li><i class="icon-user"></i> <span>kompasiana.com</span></li>
-                            <li><i class="icon-clock3"></i> <span>Agustus 12, 2020</span></li>
+                            <li><i class="icon-user"></i> <span>IDN Times</span></li>
+                            <li><i class="icon-clock3"></i> <span>Desember 4, 2020</span></li>
                             <li><a href="news-detail.html"><i class="icon-icons206"></i> <span>Tinggalkan
                                         Komentar</span></a></li>
                         </ul>
                     </div>
 
                     <div class="next-pre">
-                        <a href="/artikel3" class="prev"><i class="icon-chevron-small-left"></i>Older Posts</a>
-                        <a href="/artikel2" class="next">Newest Posts <i class="icon-chevron-small-right"></i></a>
+                        <a href="/artikel2" class="prev"><i class="icon-chevron-small-left"></i>Older Posts</a>
+                        <a href="/artikel1" class="next">Newest Posts <i class="icon-chevron-small-right"></i></a>
                     </div>
 
                 </div>

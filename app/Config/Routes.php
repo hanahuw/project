@@ -52,6 +52,8 @@ $routes->get('/petklinik-bk', 'Home::petklinikbk');
 $routes->get('/interme-ow', 'Home::intermeow');
 $routes->get('/artikel2', 'Home::artikel2');
 $routes->get('/artikel3', 'Home::artikel3');
+$routes->get('/artikel4', 'Home::artikel4');
+$routes->get('/artikel5', 'Home::artikel5');
 $routes->get('/tutorial1', 'Home::tutorial1');
 $routes->get('/penyakit-tutor1', 'Home::penyakittutor1');
 $routes->get('/penyakit2-tutor1', 'Home::penyakit2tutor1');

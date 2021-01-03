@@ -253,91 +253,6 @@
     </div>
     <!--End Services-->
 
-    <!--Start Appointment-->
-    <!-- <div class="make-appointment-two">
-                <div class="container">
-                    <div class="row">
-
-                        <div class="col-md-5">
-                            <img src="images/appointment-img.jpg" alt="">
-                        </div>
-
-                        <div class="col-md-7">
-                            <div class="appointment-form">
-
-                                <div class="main-title">
-                                    <h2><span>Make an</span> Appointment</h2>
-                                    <p>If you need a doctor for to consectetuer Lorem ipsum dolor, consectetur adipiscing elit. Ut volutpat eros adipiscing nonummy.</p>
-                                </div>
-
-                                <div class="form">
-
-
-
-
-                                    <section class="bgcolor-a">
-                                        <p class="error" id="error" style="display:none;"></p>
-                                        <p class="success" id="success" style="display:none;"></p>
-
-                                        <form name="appointment_form" id="appointment_form" method="post" action="#" onSubmit="return false">
-                                            <span class="input input--kohana">
-                                                <input class="input__field input__field--kohana" type="text" id="input-29" name="input-29" />
-                                                <label class="input__label input__label--kohana" for="input-29">
-                                                    <i class="icon-user6 icon icon--kohana"></i>
-                                                    <span class="input__label-content input__label-content--kohana">Your Name</span>
-                                                </label>
-                                            </span>
-                                            <span class="input input--kohana">
-                                                <input class="input__field input__field--kohana" type="text" id="input-30" name="input-30" />
-                                                <label class="input__label input__label--kohana" for="input-30">
-                                                    <i class="icon-dollar icon icon--kohana"></i>
-                                                    <span class="input__label-content input__label-content--kohana">Email Address</span>
-                                                </label>
-                                            </span>
-                                            <span class="input input--kohana last">
-                                                <input class="input__field input__field--kohana" type="text" id="input-31" name="input-31" />
-                                                <label class="input__label input__label--kohana" for="input-31">
-                                                    <i class="icon-phone5 icon icon--kohana"></i>
-                                                    <span class="input__label-content input__label-content--kohana">Phone Number</span>
-                                                </label>
-                                            </span>
-
-                                            <span class="input input--kohana">
-                                                <input class="input__field input__field--kohana" type="text" id="datepicker" placeholder="Appointment Date" onClick="removeChecks();" name="datepicker" />
-                                            </span>
-
-                                            <span class="input input--kohana message">
-                                                <textarea class="input__field input__field--kohana" id="textarea" name="textarea"></textarea>
-
-                                                <label class="input__label input__label--kohana" for="textarea">
-                                                    <i class="icon-new-message icon icon--kohana"></i>
-                                                    <span class="input__label-content input__label-content--kohana">Message</span>
-                                                </label>
-                                            </span>
-
-                                            <input name="submit_appointment" type="submit" value="send" onClick="validateAppointment();">
-
-
-                                        </form>
-
-                                    </section>
-
-
-
-
-
-
-                                </div>
-
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-            </div> -->
-    <!--End Appointment-->
-
-
     <!--Start Welcome-->
     <div class="welcome dark-back">
         <div class="container">
@@ -571,7 +486,7 @@
                                 <div class="post item">
                                     <img class="lazyOwl" src="images/blog/artikel3-bg.jpg" alt="">
                                     <div class="detail">
-                                        <img src="images/news-dr1.jpg" alt="">
+                                        <img src="images/kittycare/kucing-tidur.png" alt="">
                                         <h4><a href="/artikel3">Fakta
                                                 Unik Kucing yang jarang
                                                 orang
@@ -579,9 +494,23 @@
                                         <p>Pernahkah kamu melihat seekor
                                             kucing yang hanya menghabiskan
                                             waktunya
-                                            untuk tidur seharian?</p>
+                                            untuk tidur seharian? Lalu benarkah bahwa kucing berbulu hitam....</p>
                                         <span><i class="icon-clock3"></i>Jan
-                                            22</span>
+                                            22, 2019</span>
+                                        <span class="comment"><a href="news-detail.html"><i class="icon-icons206"></i>
+                                                0
+                                                Comments</a></span>
+                                    </div>
+                                </div>
+
+                                <div class="post item">
+                                    <img class="lazyOwl" src="images/artikel4/artikel4-1.jpg" alt="">
+                                    <div class="detail">
+                                        <img src="images/kittycare/artikel-4-round.png" alt="">
+                                        <h4><a href="/artikel4">Berkunjung ke Cat Cafe Terbesar dan Tercantik di Indonesia, Neko Cat Cafe</a></h4>
+                                        <p>Hayo siapa disini yang merupakan penggemar kucing? Atau mungkin memiliki kucing peliharaan....</p>
+                                        <span><i class="icon-clock3"></i>
+                                            Aug 12, 2020</span>
                                         <span class="comment"><a href="news-detail.html"><i class="icon-icons206"></i>
                                                 0
                                                 Comments</a></span>
@@ -591,7 +520,7 @@
                                 <div class="post item">
                                     <img class="lazyOwl" src="images/blog/artikel2-bg.jpg" alt="">
                                     <div class="detail">
-                                        <img src="images/news-dr2.jpg" alt="">
+                                        <img src="images/artikel2/kucing-lupa.jpg" alt="">
                                         <h4><a href="/artikel2">Perilaku
                                                 Unik Kucing</a></h4>
                                         <p>Mengapa kucing suka terobsesi
@@ -602,7 +531,7 @@
                                             kalian melihat kucing yang
                                             terobsesi.....</p>
                                         <span><i class="icon-clock3"></i>
-                                            Nov 11</span>
+                                            Nov 11, 2020</span>
                                         <span class="comment"><a href="news-detail.html"><i class="icon-icons206"></i>
                                                 3
                                                 Comments</a></span>
@@ -610,55 +539,39 @@
                                 </div>
 
                                 <div class="post item">
+                                    <img class="lazyOwl" src="images/artikel5/artikel5-2.jpg" alt="">
+                                    <div class="detail">
+                                        <img src="images/artikel5/artikel5-5.jpg" alt="">
+                                        <h4><a href="/artikel5">Kucing Manny Doyan Selfie</a></h4>
+                                        <p>Selfie. Satu kata yang merujuk pada era digital. Di zaman modern seperti sekarang ini tidak ada yang tidak mengenal istilah selfie....</p>
+                                        <span><i class="icon-clock3"></i>
+                                            Dec 4, 2020</span>
+                                        <span class="comment"><a href="news-detail.html"><i class="icon-icons206"></i>
+                                                11 Comments</a></span>
+                                    </div>
+                                </div>
+
+                                <div class="post item">
                                     <img class="lazyOwl" src="images/blog/artikel1-bg.jpg" alt="">
                                     <div class="detail">
-                                        <img src="images/news-dr1.jpg" alt="">
+                                        <img src="images/artikel1/belangtiga.jpg" alt="">
                                         <h4><a href="/artikel1">10
                                                 Sifat dan kepribadian kucing
                                                 menurut
                                                 warna bulunya</a></h4>
                                         <p>Benarkah kucing oranye adalah
-                                            kucing yang nakal....</p>
+                                            kucing yang nakal seperti yang sering disebut-sebutkan
+                                            orang-orang belakangan ini?....</p>
                                         <span><i class="icon-clock3"></i>
-                                            Nov 12</span>
+                                            Dec 14, 2020</span>
                                         <span class="comment"><a href="news-detail.html"><i class="icon-icons206"></i>
                                                 5
                                                 Comments</a></span>
                                     </div>
                                 </div>
 
-                                <div class="post item">
-                                    <img class="lazyOwl" src="images/news-img4.jpg" alt="">
-                                    <div class="detail">
-                                        <img src="images/news-dr2.jpg" alt="">
-                                        <h4><a href="news-detail.html">Child
-                                                Birth</a></h4>
-                                        <p>Lorem ipsum dolor sit amet,
-                                            consectetur adipiscing elit
-                                            eros...</p>
-                                        <span><i class="icon-clock3"></i>
-                                            Mar 15, 2016</span>
-                                        <span class="comment"><a href="news-detail.html"><i class="icon-icons206"></i>
-                                                0
-                                                Comments</a></span>
-                                    </div>
-                                </div>
 
-                                <div class="post item">
-                                    <img class="lazyOwl" src="images/news-img5.jpg" alt="">
-                                    <div class="detail">
-                                        <img src="images/news-dr2.jpg" alt="">
-                                        <h4><a href="news-detail.html">Special
-                                                Treatment</a></h4>
-                                        <p>Lorem ipsum dolor sit amet,
-                                            consectetur adipiscing elit
-                                            eros...</p>
-                                        <span><i class="icon-clock3"></i>
-                                            Mar 04, 2016</span>
-                                        <span class="comment"><a href="news-detail.html"><i class="icon-icons206"></i>
-                                                11 Comments</a></span>
-                                    </div>
-                                </div>
+
 
                             </div>
 
