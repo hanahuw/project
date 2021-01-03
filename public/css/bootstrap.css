@@ -161,6 +161,8 @@ button {
 button,
 select {
   text-transform: none;
+  width: 100%;
+  margin: 8px 10px;
 }
 
 button,
@@ -2980,11 +2982,11 @@ output {
 .form-control {
   display: block;
   width: 100%;
-  height: 34px;
-  padding: 6px 12px;
-  font-size: 14px;
+  height: 50px;
+  padding: 12px 8px;
+  font-size: 16px;
   line-height: 1.42857143;
-  color: #555555;
+  color: #000000;
   background-color: #ffffff;
   background-image: none;
   border: 1px solid #cccccc;
@@ -3070,6 +3072,8 @@ input[type="search"] {
 
 .form-group {
   margin-bottom: 15px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .radio,
@@ -3500,6 +3504,8 @@ select[multiple].input-lg {
 .btn {
   display: inline-block;
   margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
   font-weight: normal;
   text-align: center;
   vertical-align: middle;
@@ -3509,8 +3515,8 @@ select[multiple].input-lg {
   background-image: none;
   border: 1px solid transparent;
   white-space: nowrap;
-  padding: 6px 12px;
-  font-size: 14px;
+  padding: 12px 8px;
+  font-size: 16px;
   line-height: 1.42857143;
   border-radius: 4px;
   -webkit-user-select: none;
@@ -5772,6 +5778,7 @@ a.thumbnail.active {
 }
 
 .alert {
+  background-color: #101010;
   padding: 15px;
   margin-bottom: 20px;
   border: 1px solid transparent;

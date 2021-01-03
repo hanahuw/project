@@ -1,20 +1,41 @@
-
-#page .header a
-{
-	
-	    display: block;
-    width: 40px;
-    height: 41px;
-    position: absolute;
-    top: -70px;
-    background: url(../images/mob-menu.png) no-repeat center;
-    border-radius: 5px;
-    z-index: 99999;
-    right: 0;
-
+#page .header a {
+  display: block;
+  width: 40px;
+  height: 41px;
+  position: absolute;
+  top: -70px;
+  background: url(../images/mob-menu.png) no-repeat center;
+  border-radius: 5px;
+  z-index: 99999;
+  right: 0;
 }
-#page .header{ padding:0px; display: inline;}
+
+#page .header2 a {
+  display: block;
+  width: 40px;
+  height: 41px;
+  position: absolute;
+  top: -70px;
+  background: url(../images/mob-menu.png) no-repeat center;
+  border-radius: 5px;
+  z-index: 99999;
+  right: 0;
+}
+
+#page .header {
+  padding: 0px;
+  display: inline;
+}
 div#page {
-    float: right;
-    position: relative;
+  float: right;
+  position: relative;
+}
+
+#page .header2 {
+  padding: 0px;
+  display: inline;
+}
+div#page {
+  float: right;
+  position: relative;
 }

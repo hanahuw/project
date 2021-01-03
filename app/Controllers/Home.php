@@ -64,9 +64,19 @@ class Home extends BaseController
 		return view('Petcare/Petshop/petshop-bk');
 	}
 
-	public function mauadopsi()
+	// public function mauadopsi()
+	// {
+	// 	return view('Adopsi/mauadopsi');
+	// }
+
+	// public function caripengadopsi()
+	// {
+	// 	return view('Adopsi/cari-pengadopsi');
+	// }
+
+	public function profilekucing1()
 	{
-		return view('Adopsi/mau-adopsi');
+		return view('Adopsi/profile-kucing1');
 	}
 
 	public function petklinikjp()

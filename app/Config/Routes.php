@@ -31,6 +31,13 @@ $routes->setAutoRoute(true);
 // We get a performance increase by specifying the default
 // route since we don't have to scan directories.
 $routes->get('/', 'Home::index');
+
+// controller Adopsi
+$routes->get('/mauadopsi', 'Adopsi::mauadopsi');
+$routes->get('/Adopsi/(:segment)', 'Adopsi::detail/$1');
+$routes->get('/caripengadopsi', 'Adopsi::caripengadopsi');
+
+
 $routes->get('/meows-up', 'Home::meowsup');
 $routes->get('/artikel1', 'Home::artikel1');
 $routes->get('/tutorial', 'Home::tutorial');
@@ -42,7 +49,7 @@ $routes->get('/petshop-jb', 'Home::petshopjb');
 $routes->get('/petshop-ju', 'Home::petshopju');
 $routes->get('/petshop-js', 'Home::petshopjs');
 $routes->get('/petshop-bk', 'Home::petshopbk');
-$routes->get('/mau-adopsi', 'Home::mauadopsi');
+$routes->get('/profile-kucing1', 'Home::profilekucing1');
 $routes->get('/petklinik-jp', 'Home::petklinikjp');
 $routes->get('/petklinik-jt', 'Home::petklinikjt');
 $routes->get('/petklinik-jb', 'Home::petklinikjb');

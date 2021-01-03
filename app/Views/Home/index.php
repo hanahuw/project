@@ -2,96 +2,6 @@
 
 <?= $this->section('content'); ?>
 
-<!--Start Navbar-->
-
-<div id="header-2">
-
-    <header class="header header2">
-        <div class="container">
-
-
-            <div class="row">
-
-                <div class="col-md-3">
-                    <a href="/" class="logo"><img src="images/kittycare/home5.png"></a>
-
-                </div>
-
-
-                <div class="col-md-9">
-
-
-                    <nav class="menu-2">
-                        <ul class="nav wtf-menu">
-                            <li class="parent"><a href="#.">Adopsi</a>
-                                <ul class="submenu">
-                                    <li> <a href="/mau-adopsi">Mau Adopsi</a> </li>
-                                    <li> <a href="index2.html">Cari pengadopsi</a> </li>
-                                </ul>
-                            </li>
-
-                            <li class="parent"><a href="/meows-up">Meows-up</a>
-                            </li>
-
-                            <li class="parent"><a href="/interme-ow">Interme-ow</a>
-                            </li>
-
-                            <li><a href="/donasi">Donasi</a></li>
-
-                            <li class="parent"><a href="#.">Petcare</a>
-
-                                <ul class="submenu">
-
-                                    <li class="parent"> <a href="#">Pet shop</a> <i class="icon-chevron-small-right"></i>
-                                        <ul class="submenu">
-                                            <li> <a href="/petshop-jp">Jakarta Pusat</a> </li>
-                                            <li> <a href="/petshop-jt">Jakarta Timur</a> </li>
-                                            <li> <a href="/petshop-jb">Jakarta Barat</a> </li>
-                                            <li> <a href="/petshop-ju">Jakarta Utara</a> </li>
-                                            <li> <a href="/petshop-js">Jakarta Selatan</a> </li>
-                                            <li> <a href="/petshop-bk">Bekasi</a> </li>
-                                        </ul>
-                                    </li>
-
-                                    <li class="parent"> <a href="#">Pet klinik</a> <i class="icon-chevron-small-right"></i>
-                                        <ul class="submenu">
-                                            <li> <a href="/petklinik-jp">Jakarta Pusat</a> </li>
-                                            <li> <a href="/petklinik-jt">Jakarta Timur</a> </li>
-                                            <li> <a href="/petklinik-jb">Jakarta Barat</a> </li>
-                                            <li> <a href="/petklinik-ju">Jakarta Utara</a> </li>
-                                            <li> <a href="/petklinik-js">Jakarta Selatan</a> </li>
-                                            <li> <a href="/petklinik-bk">Bekasi</a> </li>
-                                        </ul>
-                                    </li>
-
-                                </ul>
-
-                            </li>
-
-                            <li class="parent"><a href="#."><i class="icon-user"></i></a>
-                                <ul class="submenu">
-                                    <li> <a href="index.html">Profile</a> </li>
-                                    <li> <a href="index2.html">Pengaturan</a> </li>
-                                    <li> <a href="index2.html">Keluar</a> </li>
-                                </ul>
-                            </li>
-
-                        </ul>
-                    </nav>
-
-                </div>
-
-            </div>
-
-
-        </div>
-    </header>
-</div>
-
-<!--End Navbar-->
-
-<br>
-
 <!--Start Banner-->
 
 <div class="tp-banner-container">
@@ -99,18 +9,30 @@
         <ul>
             <!-- SLIDE  -->
 
-            <li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="Intro Slide">
+            <li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on"
+                data-title="Intro Slide">
 
-                <img src="images/kittycare/cat-portrait.jpg" alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+                <img src="images/kittycare/cat-portrait.jpg" alt="" data-bgposition="center top" data-bgfit="cover"
+                    data-bgrepeat="no-repeat">
 
-                <div class="tp-caption grey_heavy_72 skewfromrightshort tp-resizeme rs-parallaxlevel-0" data-x="1035" data-y="250" data-speed="500" data-start="2250" data-easing="Power3.easeInOut" data-splitin="chars" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Stray Cat
+                <div class="tp-caption grey_heavy_72 skewfromrightshort tp-resizeme rs-parallaxlevel-0" data-x="1035"
+                    data-y="250" data-speed="500" data-start="2250" data-easing="Power3.easeInOut" data-splitin="chars"
+                    data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1"
+                    style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Stray Cat
                 </div>
 
-                <div class="tp-caption grey_heavy_72 skewfromrightshort tp-resizeme rs-parallaxlevel-0" data-x="730" data-y="320" data-speed="500" data-start="2250" data-easing="Power3.easeInOut" data-splitin="chars" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Need Your Love
+                <div class="tp-caption grey_heavy_72 skewfromrightshort tp-resizeme rs-parallaxlevel-0" data-x="730"
+                    data-y="320" data-speed="500" data-start="2250" data-easing="Power3.easeInOut" data-splitin="chars"
+                    data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1"
+                    style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">Need Your Love
                     too
                 </div>
 
-                <div class="tp-caption grey_heavy_28 customin tp-resizeme rs-parallaxlevel-0" data-x="770" data-y="450" data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="500" data-start="2600" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.1" style="z-index: 9; max-width: auto; max-height: auto; white-space: nowrap;">
+                <div class="tp-caption grey_heavy_28 customin tp-resizeme rs-parallaxlevel-0" data-x="770" data-y="450"
+                    data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                    data-speed="500" data-start="2600" data-easing="Power3.easeInOut" data-splitin="none"
+                    data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.1"
+                    style="z-index: 9; max-width: auto; max-height: auto; white-space: nowrap;">
                     <div style="text-align:right;">
                         <h6 style="color:white;">Layaknya manusia, kucing-kucing liar di jalanan pun
                             <br>
@@ -121,11 +43,18 @@
 
             </li>
 
-            <li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="Intro Slide">
+            <li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on"
+                data-title="Intro Slide">
 
-                <img src="images/kittycare/face-cat.jpg" alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+                <img src="images/kittycare/face-cat.jpg" alt="" data-bgposition="center top" data-bgfit="cover"
+                    data-bgrepeat="no-repeat">
 
-                <div class="tp-caption white_regular_36-light customin tp-resizeme rs-parallaxlevel-0" data-x="-100" data-y="300" data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="500" data-start="2200" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.1" style="z-index: 9; max-width: auto; max-height: auto; white-space: nowrap;">
+                <div class="tp-caption white_regular_36-light customin tp-resizeme rs-parallaxlevel-0" data-x="-100"
+                    data-y="300"
+                    data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                    data-speed="500" data-start="2200" data-easing="Power3.easeInOut" data-splitin="none"
+                    data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.1"
+                    style="z-index: 9; max-width: auto; max-height: auto; white-space: nowrap;">
                     <div style="text-align:left;">
                         <h4 style="color:white;">Mereka hanya menginginkan<br>tatapan lembut penuh
                             kasih sayang,
@@ -136,20 +65,35 @@
                 </div>
             </li>
 
-            <li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on" data-title="Intro Slide">
+            <li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on"
+                data-title="Intro Slide">
 
-                <img src="images/kittycare/slide1.jpg" alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+                <img src="images/kittycare/slide1.jpg" alt="" data-bgposition="center top" data-bgfit="cover"
+                    data-bgrepeat="no-repeat">
 
-                <div class="tp-caption grey_heavy_72 skewfromrightshort tp-resizeme rs-parallaxlevel-0" data-x="760" data-y="250" data-speed="500" data-start="2250" data-easing="Power3.easeInOut" data-splitin="chars" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">I love every
+                <div class="tp-caption grey_heavy_72 skewfromrightshort tp-resizeme rs-parallaxlevel-0" data-x="760"
+                    data-y="250" data-speed="500" data-start="2250" data-easing="Power3.easeInOut" data-splitin="chars"
+                    data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1"
+                    style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">I love every
                 </div>
 
-                <div class="tp-caption grey_heavy_72 skewfromrightshort tp-resizeme rs-parallaxlevel-0" data-x="760" data-y="320" data-speed="500" data-start="2250" data-easing="Power3.easeInOut" data-splitin="chars" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">meowment when
+                <div class="tp-caption grey_heavy_72 skewfromrightshort tp-resizeme rs-parallaxlevel-0" data-x="760"
+                    data-y="320" data-speed="500" data-start="2250" data-easing="Power3.easeInOut" data-splitin="chars"
+                    data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1"
+                    style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;">meowment when
                 </div>
 
-                <div class="tp-caption grey_heavy_72 skewfromrightshort tp-resizeme rs-parallaxlevel-0" data-x="760" data-y="320" data-speed="500" data-start="2250" data-easing="Power3.easeInOut" data-splitin="chars" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;"> it's spent with you.
+                <div class="tp-caption grey_heavy_72 skewfromrightshort tp-resizeme rs-parallaxlevel-0" data-x="760"
+                    data-y="320" data-speed="500" data-start="2250" data-easing="Power3.easeInOut" data-splitin="chars"
+                    data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1"
+                    style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;"> it's spent with you.
                 </div>
 
-                <div class="tp-caption grey_heavy_28 customin tp-resizeme rs-parallaxlevel-0" data-x="1240" data-y="500" data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="500" data-start="2600" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.1" style="z-index: 9; max-width: auto; max-height: auto; white-space: nowrap;">
+                <div class="tp-caption grey_heavy_28 customin tp-resizeme rs-parallaxlevel-0" data-x="1240" data-y="500"
+                    data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                    data-speed="500" data-start="2600" data-easing="Power3.easeInOut" data-splitin="none"
+                    data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.1"
+                    style="z-index: 9; max-width: auto; max-height: auto; white-space: nowrap;">
                     <div style="text-align:right;">
                         <h6 style="color:white;">-Baki</h6>
                     </div>
@@ -251,91 +195,6 @@
             </div>
         </div>
     </div>
-    <!--End Services-->
-
-    <!--Start Appointment-->
-    <!-- <div class="make-appointment-two">
-                <div class="container">
-                    <div class="row">
-
-                        <div class="col-md-5">
-                            <img src="images/appointment-img.jpg" alt="">
-                        </div>
-
-                        <div class="col-md-7">
-                            <div class="appointment-form">
-
-                                <div class="main-title">
-                                    <h2><span>Make an</span> Appointment</h2>
-                                    <p>If you need a doctor for to consectetuer Lorem ipsum dolor, consectetur adipiscing elit. Ut volutpat eros adipiscing nonummy.</p>
-                                </div>
-
-                                <div class="form">
-
-
-
-
-                                    <section class="bgcolor-a">
-                                        <p class="error" id="error" style="display:none;"></p>
-                                        <p class="success" id="success" style="display:none;"></p>
-
-                                        <form name="appointment_form" id="appointment_form" method="post" action="#" onSubmit="return false">
-                                            <span class="input input--kohana">
-                                                <input class="input__field input__field--kohana" type="text" id="input-29" name="input-29" />
-                                                <label class="input__label input__label--kohana" for="input-29">
-                                                    <i class="icon-user6 icon icon--kohana"></i>
-                                                    <span class="input__label-content input__label-content--kohana">Your Name</span>
-                                                </label>
-                                            </span>
-                                            <span class="input input--kohana">
-                                                <input class="input__field input__field--kohana" type="text" id="input-30" name="input-30" />
-                                                <label class="input__label input__label--kohana" for="input-30">
-                                                    <i class="icon-dollar icon icon--kohana"></i>
-                                                    <span class="input__label-content input__label-content--kohana">Email Address</span>
-                                                </label>
-                                            </span>
-                                            <span class="input input--kohana last">
-                                                <input class="input__field input__field--kohana" type="text" id="input-31" name="input-31" />
-                                                <label class="input__label input__label--kohana" for="input-31">
-                                                    <i class="icon-phone5 icon icon--kohana"></i>
-                                                    <span class="input__label-content input__label-content--kohana">Phone Number</span>
-                                                </label>
-                                            </span>
-
-                                            <span class="input input--kohana">
-                                                <input class="input__field input__field--kohana" type="text" id="datepicker" placeholder="Appointment Date" onClick="removeChecks();" name="datepicker" />
-                                            </span>
-
-                                            <span class="input input--kohana message">
-                                                <textarea class="input__field input__field--kohana" id="textarea" name="textarea"></textarea>
-
-                                                <label class="input__label input__label--kohana" for="textarea">
-                                                    <i class="icon-new-message icon icon--kohana"></i>
-                                                    <span class="input__label-content input__label-content--kohana">Message</span>
-                                                </label>
-                                            </span>
-
-                                            <input name="submit_appointment" type="submit" value="send" onClick="validateAppointment();">
-
-
-                                        </form>
-
-                                    </section>
-
-
-
-
-
-
-                                </div>
-
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-            </div> -->
-    <!--End Appointment-->
 
 
     <!--Start Welcome-->
@@ -378,8 +237,6 @@
                                         ulasan-ulasan yang berkaitan dengan kucing untuk menambah pengetahuan
                                         dalam dunia perkucingan.
                                     </p>
-                                    <!-- <a href="about-us.html">Read More</a> -->
-
                                 </div>
 
                             </div>
@@ -393,7 +250,7 @@
 
 
 
-    <!--Start Specialists-->
+    <!--Start Galeri-->
     <div class="meet-specialists">
         <div class="container">
 
@@ -523,10 +380,10 @@
             </div>
         </div>
     </div>
-    <!--End Specialists-->
+    <!--End Galeri-->
 
 
-    <!--Start Doctor Quote-->
+    <!--Start Quote-->
     <div class=" dr-quote">
         <div class="container">
             <div class="row">
@@ -538,11 +395,11 @@
             </div>
         </div>
     </div>
-    <!--End Doctor Quote-->
+    <!--End Quote-->
 
 
 
-    <!--Start Latest News-->
+    <!--Start Sekilas Interme-ow-->
     <div class="latest-news dark-back">
         <div class="container">
 
@@ -556,9 +413,6 @@
                     </div>
                 </div>
             </div>
-
-
-
 
             <div id="latest-news">
                 <div class="container">
@@ -672,7 +526,7 @@
 
         </div>
     </div>
-    <!--End Latest News-->
+    <!--End Sekilas Interme-ow-->
 
 
 </div>
