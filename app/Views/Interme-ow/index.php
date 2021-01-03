@@ -47,13 +47,13 @@
                             <li>
                                 <div class="link">Artikel<i class="icon-chevron-down"></i></div>
                                 <ul class="submenu">
-                                    <li><a href="/artikel-home">10 Sifat dan Kepribadian Kucing Menurut Warna
-                                            Bulunya</a></li>
-                                    <li><a href="/artikel2">Perilaku Unik Kucing</a></li>
                                     <li><a href="/artikel3">Fakta Unik Kucing yang Jarang Diketahui Banyak Orang</a>
                                     </li>
-                                    <li><a href="#">Trials Section Four</a></li>
-                                    <li><a href="#">Trials Section Five</a></li>
+                                    <li><a href="/artikel4">Neko Cat Cafe</a></li>
+                                    <li><a href="/artikel2">Perilaku Unik Kucing</a></li>
+                                    <li><a href="/artikel5">Kucing Selfie</a></li>
+                                    <li><a href="/artikel1">10 Sifat dan Kepribadian Kucing Menurut Warna
+                                            Bulunya</a></li>
                                 </ul>
                             </li>
                             <li>
@@ -94,53 +94,170 @@
 
                 <div class="col-md-8">
 
-                    <div class="col-md-6">
-                        <div class="serv-sec">
-                            <img class="banner-img" src="images/service-two-img1.jpg" alt="">
-                            <div class="detail">
-                                <h5>Dental Implants</h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur of adipiscing elit. Donec nec eros eget nisl
-                                    fringilla commodo. Maecenas.</p>
-                                <a href="#.">- Read More</a>
+                    <div class="main-title">
+                        <h2>Asal usul<span> Kucing</span></h2>
+                        <p>Kucing disebut juga kucing domestik atau kucing rumah (nama ilmiah: <i>Felis silvestris
+                                catus</i> atau <i>Felis catus</i>) adalah sejenis mamalia karnivora dari keluarga
+                            <span><b>Felidae</b></span>. Kata "kucing" biasanya merujuk kepada "kucing" yang telah
+                            dijinakkan, tetapi bisa juga merujuk kepada <span><b>"kucing besar"</b></span> seperti singa
+                            dan harimau.
+                        </p>
+                    </div>
+
+                    <div class="procedure-text">
+
+                        <div class="detail">
+                            <img class="right" src="images/kittycare/interme-ow1.jpg" alt="">
+                            <p>Kucing telah berbaur dengan kehidupan manusia paling tidak sejak 6.000 tahun SM, dari
+                                kerangka kucing di <b>Pulau Siprus</b>. Orang Mesir Kuno dari 3.500 SM telah menggunakan
+                                kucing untuk menjauhkan tikus atau hewan pengerat lain dari lumbung yang menyimpan hasil
+                                panen.
+                                <br>
+                                <br>
+                                Saat ini, kucing adalah salah satu hewan peliharaan terpopuler di dunia. Kucing yang
+                                garis keturunannya tercatat secara resmi sebagai kucing trah atau galur murni <i>(pure
+                                    breed)</i>, seperti persia, siam, manx, dan sphinx. Kucing seperti ini biasanya
+                                dibiakkan di tempat pemeliharaan hewan resmi. Jumlah kucing ras hanyalah 1% dari seluruh
+                                kucing di dunia, sisanya adalah kucing dengan keturunan campuran seperti kucing liar
+                                atau kucing kampung.
+                            </p>
+                            <div class="title-main">
+                                <h4>Taksonomi Kucing</h4>
+                                <p><b>Taksonomi</b> adalah sistem hierarki untuk mengklasifikasi dan mengidentifikasi
+                                    organisme. Sistem ini dikembangkan oleh ilmuwan Swedia, Carolus Linnaeus, pada abad
+                                    ke-18.
+                                    <br>
+                                    Taksonomi kucing yang memiliki nama ilmiah <i>Felis Catus</i> secara lengkap adalah
+                                    sebagai berikut :
+                                </p>
                             </div>
                         </div>
                     </div>
 
-                    <div class="col-md-6">
-                        <div class="serv-sec">
-                            <img class="banner-img" src="images/service-two-img4.jpg" alt="">
-                            <div class="detail">
-                                <h5>Heart Specialist</h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur of adipiscing elit. Donec nec eros eget nisl
-                                    fringilla commodo. Maecenas.</p>
-                                <a href="#.">- Read More</a>
+                    <ul>
+                        <li><span>Kingdom : Animalia</span></li>
+                        <li><span>Filum : Chordata</span></li>
+                        <li><span>Subfilum : Vertebrata</span></li>
+                        <li><span>Kelas : Mammalia</span></li>
+                        <li><span>Ordo : Carnivora</span></li>
+                        <li><span>Famili : Felidae</span></li>
+                        <li><span>Genus : Felis</span></li>
+                        <li><span>For Disabled</span></li>
+                        <li><span>For Disabled</span></li>
+                    </ul>
+
+
+                    <div class="detail top-space">
+                        <div class="title-main">
+                            <h4>Morfologi Kucing</h4>
+                            <img class="left" src="images/kittycare/morfologi-kucing.jpeg" alt="">
+                            <p>
+                                Tidak seperti tubuh anjing yang beragam, ukuran tubuh kucing justru hampir sama. Secara
+                                umum, struktur tubuh kucing, baik kucing ras, kucing kampung, maupun lucing liar,
+                                tidaklah berbeda.
+
+                                Kucing memiliki bagian tubuh yang spektakuler. Mulai dari luar (mata, bulu, kuku,
+                                penampilan fisik, dan bentuk tubuh) hingga ke bagian dalam (struktur tulang, sistem
+                                pernapasan, sistem penciuman, dan sistem pencernaan) semuanya tertata di tempatnya
+                                dengan indah dan berfungsi dengan luar biasa.
+
+                                Setiap jenis kucing memiliki ragam warna, bentuk, dan dengan karakteristik yang khas.
+                                Wajah kucing ada yang bulat dan ada pula yang datar. Adapun telinganya ada yang menunjuk
+                                ke atas dan ada yang melipat dengan ukuran lebar atau kecil. Bulunya ada yang keriting,
+                                panjang, dan berbulu pendek.
+
+                                Sebagai alat gerak, kucing memiliki kaki yang terdiri dari kaki depan dan kaki belakang.
+                                Kakinya ada yang pendek dan ada yang panjang. Kaki depan kucing umumnya mempunyai 5 jari
+                                dan 4 jari pada kamki belakang. Kucing yang lahir dengan 6 atau 7 jari pada kaki depan
+                                dan tambahan jari pada kaki belakang disebut polidaktil.
+
+                                Untuk menjaga keseimbangan, terutama ketika sedang melompat atau berlari, kucing
+                                memiliki ekor. Adapun ekornya ada yang pendek, mengembang, atau tidak berekor.
+
+                                Tubuh kucing pada dasarnya terbagi dua tipe yang ekstrim. Pertama, cobby (bentuk tubuh
+                                pendek dan bulat), kaki pendek, bahu lebar, dan kepala berbentuk bundar seperti ciri
+                                yang dimiliki kucing persia dan exotic berbulu pendek. Kedua, svelte (bentuk tubuh
+                                panjang dan langsing), berotot, bertulang kecil, dan kepala berbentuk tirus seperti
+                                kucing siamense dan balinese. Tipe tubuh lainnya berada di antara tipe tersebut. Akan
+                                tetapi, secara rinci tipe tubuh kucing terbagi menjadi enam golongan.</p>
+                        </div>
+
+                        <div class="title-main">
+                            <h4>Enam golongan tipe tubuh kucing:</h4>
+                            <div class="procedures-links">
+
+                                <ul id="procedures-faq" class="accordion">
+                                    <li class="open">
+                                        <div class="link">Oriental<i class="icon-chevron-down"></i>
+                                        </div>
+                                        <ul class="submenu" style="display:block;">
+                                            <li><span>Cirinya adalah tubuh langsing, kepala panjang dan segita, mata
+                                                    berbentuk almond, telinga besar, hidung panjang, ekor panjang, dan
+                                                    kaki panjang. Contohnya, oriental shorthair, dan balinese.</span>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li>
+                                        <div class="link">Foreign<i class="icon-chevron-down"></i></div>
+                                        <ul class="submenu">
+                                            <li><span>Cirinya adalah bentuk tubuh yang langsing tetapi kurang langsing
+                                                    dari tipe oriental. Tubuhnya agak atletis, ekor panjang, kaki
+                                                    panjang, telinga besar, dan mata berbentuk almond. Contohnya, angora
+                                                    turki, dan somalia.</span></li>
+                                        </ul>
+                                    </li>
+                                    <li>
+                                        <div class="link">Semi-foreign<i class="icon-chevron-down"></i></div>
+                                        <ul class="submenu">
+                                            <li><span>Cirinya adalah sedikit ramping tetapi tubuh lebih tebal dari jenis
+                                                    foregin. Contohnya, mesir mau, dan havana brown.</span></li>
+                                        </ul>
+                                    </li>
+                                    <li>
+                                        <div class="link">Semi-cobby<i class="icon-chevron-down"></i>
+                                        </div>
+                                        <ul class="submenu">
+                                            <li><span>Cirinya adalah bentuk tubuh yang bulat dengan kepala bulat lebar
+                                                    dan kaki pendek. Contohnya, american shorthair, british shorthair,
+                                                    dan singapura.</span></li>
+                                        </ul>
+                                    </li>
+                                    <li>
+                                        <div class="link">Cobby<i class="icon-chevron-down"></i>
+                                        </div>
+                                        <ul class="submenu">
+                                            <li><span>Kucing yang tergolong jenis ini memiliki tubuh pendek, kompak, dan
+                                                    berotot dengan mata agak bulat dan kepala, telinga kecil, hidung
+                                                    pesek, dan ekor pendek. Contohnya, persia, manx, dan
+                                                    himalaya.</span></li>
+                                        </ul>
+                                    </li>
+                                    <li>
+                                        <div class="link">Substansial<i class="icon-chevron-down"></i>
+                                        </div>
+                                        <ul class="submenu">
+                                            <li><span>Cirinya adalah tubuh besar, tidak bulat, dan kekar. Contohnya,
+                                                    maine coon, bengal, dan birman.</span></li>
+                                        </ul>
+                                    </li>
+
+                                </ul>
+
                             </div>
                         </div>
                     </div>
-                    <br> <br>
-
-                    <div class="col-md-6">
-                        <div class="serv-sec">
-                            <img class="banner-img" src="images/service-two-img5.jpg" alt="">
-                            <div class="detail">
-                                <h5>Laboratory Tests</h5>
-                                <p>Lorem ipsum dolor sit amet, consectetur of adipiscing elit. Donec nec eros eget nisl
-                                    fringilla commodo. Maecenas.</p>
-                                <a href="#.">- Read More</a>
-                            </div>
-                        </div>
-                    </div>
-
-
-
                 </div>
 
 
 
             </div>
 
+
+
         </div>
+
     </div>
+</div>
 </div>
 <!--End Content-->
 
