@@ -59,7 +59,7 @@
         <div id="preloader">
             <div id="status">&nbsp;</div>
             <div class="loader">
-                <h1>Loading...</h1>
+                <h1>Nungguin yhaa ...</h1>
                 <span></span>
                 <span></span>
                 <span></span>

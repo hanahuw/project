@@ -13,7 +13,6 @@ class Adopsi extends BaseController
     }
     public function mauadopsi()
     {
-        // $identitas_kucing = $this->identitas_kucingModel->findAll();
 
         $data = [
             'identitas_kucing' => $this->identitas_kucingModel->getIdentitas_kucing()
@@ -58,6 +57,6 @@ class Adopsi extends BaseController
 
         session()->setFlashdata('pesan', 'Semoga ada orang baik yang mau adopsi kucing kamu secepatnya yaa, Terimakasih sudah mau berpartisipasi');
 
-        return redirect()->to('/mauadopsi');
+        return redirect()->to('/caripengadopsi');
     }
 }

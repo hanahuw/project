@@ -12,11 +12,10 @@
             <div class="row">
                 <div class="col-md-12">
                     <div>
-                        <h2>Rawat Aku</h2>
+                        <h2 style="color:wheat;">Butuh bantuan?</h2>
                         <!-- <hr style="box-sizing: border-box;"> -->
-                        <p style="color:#60412b">Jadikan aku teman berbagimu, karena aku tidak akan pernah
-                            meninggalkanmu
-                            sendiri</p>
+                        <p style="color:wheat;">Tenang aja, ada kami yang siap mencari orang tua pengganti untuk anak
+                            bulu kamu</p>
                     </div>
 
                 </div>
@@ -31,16 +30,30 @@
 <!--Start Content-->
 <div class="content">
 
+    <div class="container">
+        <?php if (session()->getFlashdata('pesan')) : ?>
+        <div class="alert alert-warning" role="alert">
+            <?= session()->getFlashdata('pesan'); ?>
+        </div>
+        <?php endif; ?>
+    </div>
+
 
     <div class="main-appointment-form">
         <div class="container">
 
             <div class="row">
-                <div class="col-md-12">
+                <div class="col-md">
                     <div class="main-title text-center">
-                        <h2><span>Make an</span> Appointment</h2>
-                        <p>If you need a doctor for to consectetuer Lorem ipsum dolor, consectetur adipiscing elit. Ut
-                            volutpat eros adipiscing nonummy.</p>
+                        <h2>Biarkan kami membantumu</h2> <br>
+                        <div class="container">
+                            <p>Pasti rasanya sangat berat ya, harus mencarikan teman baru ataupun orang tua
+                                pengganti bagi anak bulumu yang menggemaskan itu. Tapi kami yakin, apapun alasan
+                                dibalik itu kamu sudah mempertimbangkannya dengan sangat baik.</p><br>
+                            <p>Ayo sekarang diisi dulu ya identitas kucingmu, biar nanti kami bantu carikan orang
+                                yang tepat
+                                untuknya</p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -101,16 +114,17 @@
                     <div class="form-group row">
                         <div class="col-md">
                             <button type="submit" class="btn btn-light"
-                                style="background-color: #b37c47;">Kirim</button>
+                                style="background-color: #60412b; color:azure;">Kirim</button>
                         </div>
                     </div>
                 </form>
 
-                <br><br>
+
                 <!-- </div> -->
             </section>
             <!-- </div> -->
         </div>
+
 
 
         <!-- <div class="container">

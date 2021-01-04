@@ -43,7 +43,7 @@
 
                             <div class="signup-text">
                                 <i class="icon-dollar"></i>
-                                <span>Masuk dengan akun Anda untuk memberikan kritik dan saran.</span>
+                                <span>Berikan kritik dan saran agar kami menjadi lebih baik.</span>
                             </div>
 
                             <div class="form">
@@ -54,7 +54,7 @@
                                     onSubmit="return false">
                                     <input type="text" data-delay="300" placeholder="Email Anda" name="subscribe_email"
                                         id="subscribe_email" onKeyPress="removeChecks();" class="input">
-                                    <input type="password" data-delay="300" placeholder="Password"
+                                    <input type="text" data-delay="300" placeholder="Kritik dan Saran"
                                         name="subscribe_password" id="subscribe_password" onKeyPress="removeChecks();"
                                         class="input">
                                     <input name="Kirim" type="submit" value="Kirim" onClick="validateSubscription();">

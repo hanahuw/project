@@ -1615,7 +1615,19 @@ img:hover {
   margin: 18px 0 0 0;
 }
 
+.member-detail .team-detail2 ul {
+  margin: 18px 0 0 0;
+}
+
 .member-detail .team-detail ul li {
+  margin: 15px 0 0 0;
+  padding: 0 0 15px 0;
+  float: left;
+  width: 100%;
+  border-bottom: solid 1px #dedede;
+}
+
+.member-detail .team-detail2 ul li {
   margin: 15px 0 0 0;
   padding: 0 0 15px 0;
   float: left;
@@ -1630,7 +1642,21 @@ img:hover {
   width: 78%;
 }
 
+.member-detail .team-detail2 ul li span {
+  font-size: 18px;
+  font-size: 18px;
+  float: right;
+  width: 78%;
+}
+
 .member-detail .team-detail ul li span.title {
+  color: #353535;
+  font-weight: 700;
+  width: 22%;
+  float: left;
+}
+
+.member-detail .team-detail2 ul li span.title {
   color: #353535;
   font-weight: 700;
   width: 22%;
@@ -2723,7 +2749,7 @@ img:hover {
   margin: 0 0 24px 24px;
 }
 
-.procedures .procedure-text .detail img.left {
+.procedures .procedure-text .detail .title-main img.left {
   width: 288px;
   float: left;
   margin: 0 24px 24px 0;

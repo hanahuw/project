@@ -73,13 +73,13 @@
 
                             </li>
 
-                            <li class="parent"><a href="#."><i class="icon-user"></i></a>
+                            <!-- <li class="parent"><a href="#."><i class="icon-user"></i></a>
                                 <ul class="submenu">
                                     <li> <a href="#">Profile</a> </li>
                                     <li> <a href="#">Pengaturan</a> </li>
                                     <li> <a href="#">Keluar</a> </li>
                                 </ul>
-                            </li>
+                            </li> -->
 
                         </ul>
                     </nav>
@@ -97,71 +97,71 @@
 
 <!-- Mobile Menu Start -->
 <!-- <div class="container">
-<div id="page">
-    <header class="header">
-        <a href="#menu"></a>
+    <div id="page">
+        <header class="header">
+            <a href="#menu"></a>
 
-    </header>
+        </header>
 
-    <nav id="menu">
-        <ul class="nav wtf-menu">
-            <li class="parent"><a href="#.">Adopsi</a>
-                <ul class="submenu">
-                    <li> <a href="<?= base_url() ?>/mauadopsi">Mau Adopsi</a> </li>
-                    <li> <a href="<?= base_url() ?>/cari-pengadopsi">Cari pengadopsi</a> </li>
-                </ul>
-            </li>
+        <nav id="menu">
+            <ul class="nav wtf-menu">
+                <li class="parent"><a href="#.">Adopsi</a>
+                    <ul class="submenu">
+                        <li> <a href="mauadopsi">Mau Adopsi</a> </li>
+                        <li> <a href="cari-pengadopsi">Cari pengadopsi</a> </li>
+                    </ul>
+                </li>
 
-            <li class="parent"><a href="<?= base_url() ?>/meows-up">Meows-up</a>
-            </li>
+                <li class="parent"><a href="meows-up">Meows-up</a>
+                </li>
 
-            <li class="parent"><a href="<?= base_url() ?>/interme-ow">Interme-ow</a>
-            </li>
+                <li class="parent"><a href="interme-ow">Interme-ow</a>
+                </li>
 
-            <li><a href="<?= base_url() ?>/donasi">Donasi</a></li>
+                <li><a href="donasi">Donasi</a></li>
 
-            <li class="parent"><a href="#.">Petcare</a>
+                <li class="parent"><a href="#.">Petcare</a>
 
-                <ul class="submenu">
+                    <ul class="submenu">
 
-                    <li class="parent"> <a href="#">Pet shop</a> <i class="icon-chevron-small-right"></i>
-                        <ul class="submenu">
-                            <li> <a href="<?= base_url() ?>/petshop-jp">Jakarta Pusat</a> </li>
-                            <li> <a href="<?= base_url() ?>/petshop-jt">Jakarta Timur</a> </li>
-                            <li> <a href="<?= base_url() ?>/petshop-jb">Jakarta Barat</a> </li>
-                            <li> <a href="<?= base_url() ?>/petshop-ju">Jakarta Utara</a> </li>
-                            <li> <a href="<?= base_url() ?>/petshop-js">Jakarta Selatan</a> </li>
-                            <li> <a href="<?= base_url() ?>/petshop-bk">Bekasi</a> </li>
-                        </ul>
-                    </li>
+                        <li class="parent"> <a href="#">Pet shop</a> <i class="icon-chevron-small-right"></i>
+                            <ul class="submenu">
+                                <li> <a href="petshop-jp">Jakarta Pusat</a> </li>
+                                <li> <a href="petshop-jt">Jakarta Timur</a> </li>
+                                <li> <a href="petshop-jb">Jakarta Barat</a> </li>
+                                <li> <a href="petshop-ju">Jakarta Utara</a> </li>
+                                <li> <a href="petshop-js">Jakarta Selatan</a> </li>
+                                <li> <a href="petshop-bk">Bekasi</a> </li>
+                            </ul>
+                        </li>
 
-                    <li class="parent"> <a href="#">Pet klinik</a> <i class="icon-chevron-small-right"></i>
-                        <ul class="submenu">
-                            <li> <a href="<?= base_url() ?>/petklinik-jp">Jakarta Pusat</a> </li>
-                            <li> <a href="<?= base_url() ?>/petklinik-jt">Jakarta Timur</a> </li>
-                            <li> <a href="<?= base_url() ?>/petklinik-jb">Jakarta Barat</a> </li>
-                            <li> <a href="<?= base_url() ?>/petklinik-ju">Jakarta Utara</a> </li>
-                            <li> <a href="<?= base_url() ?>/petklinik-js">Jakarta Selatan</a> </li>
-                            <li> <a href="<?= base_url() ?>/petklinik-bk">Bekasi</a> </li>
-                        </ul>
-                    </li>
+                        <li class="parent"> <a href="#">Pet klinik</a> <i class="icon-chevron-small-right"></i>
+                            <ul class="submenu">
+                                <li> <a href="petklinik-jp">Jakarta Pusat</a> </li>
+                                <li> <a href="petklinik-jt">Jakarta Timur</a> </li>
+                                <li> <a href="petklinik-jb">Jakarta Barat</a> </li>
+                                <li> <a href="petklinik-ju">Jakarta Utara</a> </li>
+                                <li> <a href="petklinik-js">Jakarta Selatan</a> </li>
+                                <li> <a href="petklinik-bk">Bekasi</a> </li>
+                            </ul>
+                        </li>
 
-                </ul>
+                    </ul>
 
-            </li>
+                </li>
 
-            <li class="parent"><a href="#."><i class="icon-user"></i></a>
-                <ul class="submenu">
-                    <li> <a href="#">Profile</a> </li>
-                    <li> <a href="#">Pengaturan</a> </li>
-                    <li> <a href="#">Keluar</a> </li>
-                </ul>
-            </li>
+                <li class="parent"><a href="#."><i class="icon-user"></i></a>
+                    <ul class="submenu">
+                        <li> <a href="#">Profile</a> </li>
+                        <li> <a href="#">Pengaturan</a> </li>
+                        <li> <a href="#">Keluar</a> </li>
+                    </ul>
+                </li>
 
-        </ul>
+            </ul>
 
 
-    </nav>
-</div>
+        </nav>
+    </div>
 </div> -->
 <!-- Mobile Menu End -->

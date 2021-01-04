@@ -61,26 +61,18 @@
                                 <ul class="submenu">
                                     <li><a href="/tutorial1">CARA MENGOBATI DAN MENCEGAH PENYAKIT KULIT PADA KUCING</a>
                                     </li>
-                                    <li><a href="#">Cancer Center</a></li>
-                                    <li><a href="#">Brain Cancer</a></li>
-                                    <li><a href="#">Tumor Microenvironment</a></li>
-                                    <li><a href="#">Breast Cancer</a></li>
-                                    <li><a href="#">Childhood Cancers</a></li>
-                                    <li><a href="#">Endocrine Cancers</a></li>
-                                    <li><a href="#">Skin Cancer</a></li>
-                                    <li><a href="#">Male Cancers</a></li>
                                 </ul>
                             </li>
                             <li>
                                 <div class="link">Tips&Trick<i class="icon-chevron-down"></i></div>
                                 <ul class="submenu">
-                                    <li><a href="#">Skin Care</a></li>
+                                    <!-- <li><a href="#">Skin Care</a></li>
                                     <li><a href="#">Face Care</a></li>
                                     <li><a href="#">Hair Care</a></li>
                                     <li><a href="#">Health Care</a></li>
                                     <li><a href="#">Body Care</a></li>
                                     <li><a href="#">Arm Care</a></li>
-                                    <li><a href="#">Chest Care</a></li>
+                                    <li><a href="#">Chest Care</a></li> -->
                                 </ul>
                             </li>
                         </ul>
@@ -107,7 +99,7 @@
                     <div class="procedure-text">
 
                         <div class="detail">
-                            <img class="right" src="images/kittycare/interme-ow1.jpg" alt="">
+                            <img class="right" src="<?= base_url(); ?>/images/kittycare/interme-ow1.jpg" alt="">
                             <p>Kucing telah berbaur dengan kehidupan manusia paling tidak sejak 6.000 tahun SM, dari
                                 kerangka kucing di <b>Pulau Siprus</b>. Orang Mesir Kuno dari 3.500 SM telah menggunakan
                                 kucing untuk menjauhkan tikus atau hewan pengerat lain dari lumbung yang menyimpan hasil
@@ -147,50 +139,66 @@
                     </ul>
 
 
-                    <div class="detail top-space">
-                        <div class="title-main">
-                            <h4>Morfologi Kucing</h4>
-                            <img class="left" src="images/kittycare/morfologi-kucing.jpeg" alt="">
-                            <p>
-                                Tidak seperti tubuh anjing yang beragam, ukuran tubuh kucing justru hampir sama. Secara
-                                umum, struktur tubuh kucing, baik kucing ras, kucing kampung, maupun lucing liar,
-                                tidaklah berbeda.
+                    <div class="procedure-text">
+                        <div class="detail">
+                            <div class="title-main">
+                                <h4>Morfologi Kucing</h4>
+                                <img class="left" src="<?= base_url(); ?>/images/kittycare/morfologi-kucing.jpeg"
+                                    alt="">
+                                <p>
+                                    Tidak seperti tubuh anjing yang beragam, ukuran tubuh kucing justru hampir sama.
+                                    Secara
+                                    umum, struktur tubuh kucing, baik kucing ras, kucing kampung, maupun lucing liar,
+                                    tidaklah berbeda.
 
-                                Kucing memiliki bagian tubuh yang spektakuler. Mulai dari luar (mata, bulu, kuku,
-                                penampilan fisik, dan bentuk tubuh) hingga ke bagian dalam (struktur tulang, sistem
-                                pernapasan, sistem penciuman, dan sistem pencernaan) semuanya tertata di tempatnya
-                                dengan indah dan berfungsi dengan luar biasa.
+                                    Kucing memiliki bagian tubuh yang spektakuler. Mulai dari luar (mata, bulu, kuku,
+                                    penampilan fisik, dan bentuk tubuh) hingga ke bagian dalam (struktur tulang, sistem
+                                    pernapasan, sistem penciuman, dan sistem pencernaan) semuanya tertata di tempatnya
+                                    dengan indah dan berfungsi dengan luar biasa.
 
-                                Setiap jenis kucing memiliki ragam warna, bentuk, dan dengan karakteristik yang khas.
-                                Wajah kucing ada yang bulat dan ada pula yang datar. Adapun telinganya ada yang menunjuk
-                                ke atas dan ada yang melipat dengan ukuran lebar atau kecil. Bulunya ada yang keriting,
-                                panjang, dan berbulu pendek.
+                                    Setiap jenis kucing memiliki ragam warna, bentuk, dan dengan karakteristik yang
+                                    khas.
+                                    Wajah kucing ada yang bulat dan ada pula yang datar. Adapun telinganya ada yang
+                                    menunjuk
+                                    ke atas dan ada yang melipat dengan ukuran lebar atau kecil. Bulunya ada yang
+                                    keriting,
+                                    panjang, dan berbulu pendek.
 
-                                Sebagai alat gerak, kucing memiliki kaki yang terdiri dari kaki depan dan kaki belakang.
-                                Kakinya ada yang pendek dan ada yang panjang. Kaki depan kucing umumnya mempunyai 5 jari
-                                dan 4 jari pada kamki belakang. Kucing yang lahir dengan 6 atau 7 jari pada kaki depan
-                                dan tambahan jari pada kaki belakang disebut polidaktil.
+                                    Sebagai alat gerak, kucing memiliki kaki yang terdiri dari kaki depan dan kaki
+                                    belakang.
+                                    Kakinya ada yang pendek dan ada yang panjang. Kaki depan kucing umumnya mempunyai 5
+                                    jari
+                                    dan 4 jari pada kamki belakang. Kucing yang lahir dengan 6 atau 7 jari pada kaki
+                                    depan
+                                    dan tambahan jari pada kaki belakang disebut polidaktil.
 
-                                Untuk menjaga keseimbangan, terutama ketika sedang melompat atau berlari, kucing
-                                memiliki ekor. Adapun ekornya ada yang pendek, mengembang, atau tidak berekor.
+                                    Untuk menjaga keseimbangan, terutama ketika sedang melompat atau berlari, kucing
+                                    memiliki ekor. Adapun ekornya ada yang pendek, mengembang, atau tidak berekor.
 
-                                Tubuh kucing pada dasarnya terbagi dua tipe yang ekstrim. Pertama, cobby (bentuk tubuh
-                                pendek dan bulat), kaki pendek, bahu lebar, dan kepala berbentuk bundar seperti ciri
-                                yang dimiliki kucing persia dan exotic berbulu pendek. Kedua, svelte (bentuk tubuh
-                                panjang dan langsing), berotot, bertulang kecil, dan kepala berbentuk tirus seperti
-                                kucing siamense dan balinese. Tipe tubuh lainnya berada di antara tipe tersebut. Akan
-                                tetapi, secara rinci tipe tubuh kucing terbagi menjadi enam golongan.</p>
+                                    Tubuh kucing pada dasarnya terbagi dua tipe yang ekstrim. Pertama, cobby (bentuk
+                                    tubuh
+                                    pendek dan bulat), kaki pendek, bahu lebar, dan kepala berbentuk bundar seperti ciri
+                                    yang dimiliki kucing persia dan exotic berbulu pendek. Kedua, svelte (bentuk tubuh
+                                    panjang dan langsing), berotot, bertulang kecil, dan kepala berbentuk tirus seperti
+                                    kucing siamense dan balinese. Tipe tubuh lainnya berada di antara tipe tersebut.
+                                    Akan
+                                    tetapi, secara rinci tipe tubuh kucing terbagi menjadi enam golongan.</p>
+
+                            </div>
                         </div>
+                    </div>
+                    <br><br><br>
 
+                    <div class="procedure-text">
                         <div class="title-main">
                             <h4>Enam golongan tipe tubuh kucing:</h4>
                             <div class="procedures-links">
 
                                 <ul id="procedures-faq" class="accordion">
-                                    <li class="open">
+                                    <li>
                                         <div class="link">Oriental<i class="icon-chevron-down"></i>
                                         </div>
-                                        <ul class="submenu" style="display:block;">
+                                        <ul class="submenu">
                                             <li><span>Cirinya adalah tubuh langsing, kepala panjang dan segita, mata
                                                     berbentuk almond, telinga besar, hidung panjang, ekor panjang, dan
                                                     kaki panjang. Contohnya, oriental shorthair, dan balinese.</span>
@@ -246,6 +254,7 @@
                             </div>
                         </div>
                     </div>
+
                 </div>
 
 

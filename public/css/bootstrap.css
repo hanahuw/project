@@ -3506,7 +3506,7 @@ select[multiple].input-lg {
   margin-bottom: 0;
   margin-left: auto;
   margin-right: auto;
-  font-weight: normal;
+  font-weight: bold;
   text-align: center;
   vertical-align: middle;
   -ms-touch-action: manipulation;
@@ -5778,7 +5778,7 @@ a.thumbnail.active {
 }
 
 .alert {
-  background-color: #101010;
+  /* background-color: #101010; */
   padding: 15px;
   margin-bottom: 20px;
   border: 1px solid transparent;
@@ -5848,6 +5848,7 @@ a.thumbnail.active {
   background-color: #fcf8e3;
   border-color: #faebcc;
   color: #8a6d3b;
+  font-size: 16px;
 }
 
 .alert-warning hr {
@@ -6183,12 +6184,13 @@ a.thumbnail.active {
 }
 
 .list-group-item {
+  font-size: 20px;
   position: relative;
   display: block;
   padding: 10px 15px;
   margin-bottom: -1px;
-  background-color: #ffffff;
-  border: 1px solid #dddddd;
+  background-color: transparent;
+  border: 1px solid transparent;
 }
 
 .list-group-item:first-child {

@@ -12,9 +12,9 @@
             <div class="row">
                 <div class="col-md-12">
                     <div>
-                        <h2>Rawat Aku</h2>
+                        <h2 style="color: wheat;">Rawat Mereka</h2>
                         <!-- <hr style="box-sizing: border-box;"> -->
-                        <p style="color:#60412b">Jadikan aku teman berbagimu, karena aku tidak akan pernah
+                        <p style="color:wheat">Jadikan mereka teman berbagimu, karena mereka tidak akan pernah
                             meninggalkanmu
                             sendiri</p>
                     </div>
@@ -35,13 +35,6 @@
 
     <div class="gallery">
         <div class="container">
-
-            <?php if (session()->getFlashdata('pesan')) : ?>
-            <div class="alert alert-dark" role="alert">
-                <?= session()->getFlashdata('pesan'); ?>
-            </div>
-            <?php endif; ?>
-
             <!-- <div class="row">
                 <div class="col-md-12">
                     <div class="main-title">

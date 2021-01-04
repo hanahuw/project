@@ -274,13 +274,12 @@
 
                                     <div class="gallery-sec">
                                         <div class="image-hover img-layer-slide-left-right">
-                                            <img src="images/junior/bubu-02.jpg" alt="">
+                                            <img src="<?= base_url(); ?>/images/adopsi/Bubu.jpg" alt="">
                                             <div class="layer">
-                                                <a href=#>Lihat Profil</a>
+                                                <a href=/Adopsi/bubu>Lihat Profil</a>
                                             </div>
                                         </div>
                                     </div>
-
                                     <div class="detail">
                                         <h6>Bubu</h6>
                                         <span>Junior</span>
@@ -294,9 +293,9 @@
 
                                     <div class="gallery-sec">
                                         <div class="image-hover img-layer-slide-left-right">
-                                            <img src="images/dewasa/finn-010.jpg" alt="">
+                                            <img src="<?= base_url(); ?>/images/adopsi/Finn.jpg" alt="">
                                             <div class="layer">
-                                                <a href="team-member-detail.html">Lihat Profil</a>
+                                                <a href="/Adopsi/finn">Lihat Profil</a>
                                             </div>
                                         </div>
                                     </div>
@@ -314,9 +313,9 @@
 
                                     <div class="gallery-sec">
                                         <div class="image-hover img-layer-slide-left-right">
-                                            <img src="images/kitten/akio-01.jpg" alt="">
+                                            <img src="<?= base_url(); ?>/images/adopsi/Akio.jpg" alt="">
                                             <div class="layer">
-                                                <a href="team-member-detail.html">Lihat Profile</a>
+                                                <a href="/Adopsi/akio">Lihat Profile</a>
                                             </div>
                                         </div>
                                     </div>
@@ -335,9 +334,9 @@
 
                                     <div class="gallery-sec">
                                         <div class="image-hover img-layer-slide-left-right">
-                                            <img src="images/kitten/mylo-09.jpg" alt="">
+                                            <img src="<?= base_url(); ?>/images/adopsi/Mylo.jpg" alt="">
                                             <div class="layer">
-                                                <a href="team-member-detail.html">Lihat Profile</a>
+                                                <a href="/Adopsi/mylo">Lihat Profile</a>
                                             </div>
                                         </div>
                                     </div>
@@ -356,9 +355,9 @@
 
                                     <div class="gallery-sec">
                                         <div class="image-hover img-layer-slide-left-right">
-                                            <img src="images/dewasa/moly-022.jpg" alt="">
+                                            <img src="<?= base_url(); ?>/images/adopsi/Moly.jpg" alt="">
                                             <div class="layer">
-                                                <a href="team-member-detail.html">Lihat Profile</a>
+                                                <a href="/Adopsi/moly">Lihat Profile</a>
                                             </div>
                                         </div>
                                     </div>

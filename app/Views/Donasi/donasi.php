@@ -13,8 +13,8 @@
                 <div class="col-md-12">
 
                     <div class="paging">
-                        <h2>Donasi</h2>
-                        <ul>
+                        <h2 style="color: wheat;">Donasi</h2>
+                        <ul style="color: wheat;">
                             <li><a href="/">Home</a></li>
                             <li><a href="/donasi">Donasi</a></li>
                         </ul>
@@ -34,15 +34,16 @@
 
 
 
-    <div class="main-appointment-form">
+    <!-- <div class="main-appointment-form">
         <div class="container">
 
             <div class="row">
                 <div class="col-md-12">
                     <div class="main-title text-center">
-                        <h2><span>Make an</span> Appointment</h2>
-                        <p>If you need a doctor for to consectetuer Lorem ipsum dolor, consectetur adipiscing elit. Ut
-                            volutpat eros adipiscing nonummy.</p>
+                        <h2>Ingin membantu?</h2><br>
+                        <p>Kami menerima uluran tangan kalian dengan senang hati</p>
+                        <p>Tapi maaf ya, untuk saat ini kami baru bisa menerima bantuan dalam bentuk uang</p>
+                        <p>Semoga kedepannya kami bisa mengelola donasi yang masuk dalam bentuk apapun</p>
                     </div>
                 </div>
             </div>
@@ -60,6 +61,27 @@
                         <div class="form">
 
                             <section class="bgcolor-a">
+                                <div class="team-detail"></div>
+                                <ul>
+                                    <li><span class="title">OVO</span>
+                                        <span>081313273492</span>
+                                    </li>
+                                    <li><span class="title">Domisili</span>
+                                        <span>081313273492</span>
+                                    </li>
+                                    <li><span class="title">Jenis Kelamin</span>
+                                        <span>081313273492</span>
+                                    </li>
+                                    <li><span class="title">Ras</span>
+                                        <span>081313273492</span>
+                                    </li>
+                                    <li><span class="title">Perkiraan Umur</span>
+                                        <span>081313273492</span>
+                                    </li>
+                                    <li><span class="title">Deskripsi</span>
+                                        <span>081313273492</span>
+                                    </li>
+                                </ul>
                                 <p class="error" id="error" style="display:none;"></p>
                                 <p class="success" id="success" style="display:none;"></p>
 
@@ -130,6 +152,48 @@
                 </div>
             </div>
 
+
+        </div>
+    </div> -->
+
+    <div class="member-detail">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="main-title text-center">
+                        <h2>Ingin membantu?</h2><br>
+                        <p>Kami menerima uluran tangan kalian dengan senang hati</p>
+                        <p>Tapi maaf ya, untuk saat ini kami baru bisa menerima bantuan dalam bentuk uang</p>
+                        <p>Semoga kedepannya kami bisa mengelola donasi yang masuk dalam bentuk apapun</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-7">
+                    <div class="team-detail2 justify-content-center">
+
+
+                        <ul style="color:#60412b; font-size:20px;">
+                            <li><span class="title">OVO</span>
+                                <span>085156854316 a.n Adelia</span>
+                            </li>
+                            <li><span class="title">Gopay</span>
+                                <span>085156854316 a.n Adelia</span>
+                            </li>
+                            <li><span class="title">Dana</span>
+                                <span>085156854316 a.n Adelia</span>
+                            </li>
+                            <li><span class="title">Bank Mandiri</span>
+                                <span>006001046841 a.n Adelia</span>
+                            </li>
+                        </ul>
+
+
+                    </div>
+                </div>
+
+
+            </div>
 
         </div>
     </div>
